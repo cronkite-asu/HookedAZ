@@ -1,6 +1,8 @@
 HookedAZ
 ===========
 
+The maintained archive copy is [cronkite-asu/HookedAZ](https://github.com/cronkite-asu/HookedAZ). For the current S3 site, use the [preservation build and tests](preservation/README.md) and [deployment record](preservation/DEPLOYMENT.md). The historical Jekyll source below predates later deployed media updates.
+
 This repository holds the source files for the [Cronkite News HookedAZ: Tracking Heroin’s Hold on Arizona][hooked] project, which launched Jan. 13, 2015.
 
 It has been changed from the original site to use the free Classic [Galleria][galleria] theme instead of the premium Twelve theme.

@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "requests": 9,
+  "results": [
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/interactives/effects/effectsonMind.html?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "560cd8a76f16583403d5e18d5d449132350b37d02c8efd2757e76cbde4ae0829",
+      "sha256": "560cd8a76f16583403d5e18d5d449132350b37d02c8efd2757e76cbde4ae0829",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/slideshows/heroin-love/?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "bf1be0258148bcc755fb4b99144e544c9fc4737fefb1471f052de381899c05a5",
+      "sha256": "bf1be0258148bcc755fb4b99144e544c9fc4737fefb1471f052de381899c05a5",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/interactives/data.html?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "1aa1bb0f92c28d3b1290baaf043279a1128d20516a58381f9f4862eed67521a9",
+      "sha256": "1aa1bb0f92c28d3b1290baaf043279a1128d20516a58381f9f4862eed67521a9",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/interactives/county.html?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "4743aad390b5b7b65f805146e9c02b19173d79bdcec10f983a52b3dab0cfe09f",
+      "sha256": "4743aad390b5b7b65f805146e9c02b19173d79bdcec10f983a52b3dab0cfe09f",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/interactives/phoenix.html?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "692da2614c14eae1f86962415babfcba38e0c3230e9ffc9d777833a6a69b4338",
+      "sha256": "692da2614c14eae1f86962415babfcba38e0c3230e9ffc9d777833a6a69b4338",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/interactives/pima.html?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "6d1b56d4a2341c304934b481fecddad9cb67a5db2540eb240059eba8d919ee5d",
+      "sha256": "6d1b56d4a2341c304934b481fecddad9cb67a5db2540eb240059eba8d919ee5d",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/interactives/hosmap.html?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "641dc381041de807b6afc48e39d917817ce629cbd10ecfcdb8439fac610391fa",
+      "sha256": "641dc381041de807b6afc48e39d917817ce629cbd10ecfcdb8439fac610391fa",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/interactives/citymapdots.html?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "3e2f8534fe3a5b444c00e16d3c324c2b69414f50fc2c7ef429447f119bf698b1",
+      "sha256": "3e2f8534fe3a5b444c00e16d3c324c2b69414f50fc2c7ef429447f119bf698b1",
+      "passed": true
+    },
+    {
+      "url": "https://hookedaz.cronkitenewsonline.com/slideshows/rehab/?archive=20261105-r2",
+      "status": 200,
+      "expected_sha256": "ea4f1a56355342df264de92589ded0b739502690225aa864ba67d310f1ac7674",
+      "sha256": "ea4f1a56355342df264de92589ded0b739502690225aa864ba67d310f1ac7674",
+      "passed": true
+    }
+  ]
+}
