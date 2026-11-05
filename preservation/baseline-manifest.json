@@ -1,0 +1,2115 @@
+{
+  "objects": {
+    ".htaccess": {
+      "bytes": 281,
+      "sha256": "4d024ee5b452a31761deff0e8f6bce7a052c16116797133e64b1c71484f1c5ed"
+    },
+    "404.html": {
+      "bytes": 8701,
+      "sha256": "83f4bb3eebc9ec79b197dacc4da20261bbddfe0a5c144cd917ce19f47c58c3ca"
+    },
+    "about/index.html": {
+      "bytes": 15237,
+      "sha256": "932246e8b1a116244537f16d3faa409df7d44a88eed907afd24742e5d5faf646"
+    },
+    "assets/css/bootstrap.min.css": {
+      "bytes": 113498,
+      "sha256": "d699f303990ce9bd7d7c97e9bd3cad6a46ecf2532f475cf22ae58213237821b9"
+    },
+    "assets/css/font-awesome.min.css": {
+      "bytes": 20766,
+      "sha256": "b769324e0921f9f649611113e65f528ebae5e140da8a7e63c5d6ea7bc7a33bc0"
+    },
+    "assets/css/footable-demos.css": {
+      "bytes": 538,
+      "sha256": "e5b1f7983373d57814c89b1bbff14f596ff348b5f34ee1fc033d3149d33d9021"
+    },
+    "assets/css/footable.core.css": {
+      "bytes": 5507,
+      "sha256": "a0414045fbcdf3a9dbf412d7a78aadf5c190df38ad3d429552c85ae07d67f33a"
+    },
+    "assets/css/ie8.css": {
+      "bytes": 43,
+      "sha256": "5102b82748e2509146573253722c8b2052aa380ab7b86b08be80be20efba0b5a"
+    },
+    "assets/css/player.css": {
+      "bytes": 2171,
+      "sha256": "a6f6a553f63695b491e91b76e0fd06e686082dba62e21704f36a9430cd384287"
+    },
+    "assets/css/quiz.css": {
+      "bytes": 2364,
+      "sha256": "7f70d208f379ca49b23c186f9ef0e8854a52d44c6a1c11c3aef4b4dd84742932"
+    },
+    "assets/css/stateface.css": {
+      "bytes": 2633,
+      "sha256": "06396260224f2b14f324a69bfefe9631cf992e8af91f60d9d80cf101ce7d1542"
+    },
+    "assets/css/storymap.css": {
+      "bytes": 60189,
+      "sha256": "e7e26f91dbbddcbdac0787579a7a9db552ccc25a62139b7492e9e9d4851183fd"
+    },
+    "assets/css/style.css": {
+      "bytes": 26787,
+      "sha256": "46a4301936974e7308e55192674c8851eba18cf0c519d69e49588423855bfc4c"
+    },
+    "assets/fonts/FontAwesome.otf": {
+      "bytes": 75188,
+      "sha256": "f7b60acb8a44554b59ef3c31bae942be65e0f1045b55400807a2ac6fde2949ba"
+    },
+    "assets/fonts/fontawesome-webfont.eot": {
+      "bytes": 72449,
+      "sha256": "9f8288933d2c87ab3cdbdbda5c9fa1e1e139b01c7c1d1983f91a13be85173975"
+    },
+    "assets/fonts/fontawesome-webfont.svg": {
+      "bytes": 253487,
+      "sha256": "4f1f9ffe01469bbd03b254ec563c304dd92276514110364148cb7ffdd75d3297"
+    },
+    "assets/fonts/fontawesome-webfont.ttf": {
+      "bytes": 141564,
+      "sha256": "c2a9333b008247abd42354df966498b4c2f1aa51a10b7e178a4f5df2edea4ce1"
+    },
+    "assets/fonts/fontawesome-webfont.woff": {
+      "bytes": 83760,
+      "sha256": "66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31"
+    },
+    "assets/fonts/footable.eot": {
+      "bytes": 4824,
+      "sha256": "85329169388a1cdf1718953760cab2fd4c871a5cbf0db7b429edf120b231a08c"
+    },
+    "assets/fonts/footable.svg": {
+      "bytes": 13095,
+      "sha256": "5c04730b85442f51d5dacd68a34123552512cfcb53af22d9f1bf1c3421fc03c2"
+    },
+    "assets/fonts/footable.ttf": {
+      "bytes": 4656,
+      "sha256": "5a93467b67f69f1a01da2fc3692b02ba1ed7e52610e1903eec3690d0ea3fa5cb"
+    },
+    "assets/fonts/footable.woff": {
+      "bytes": 4016,
+      "sha256": "ddae694c9f4ffe7b92bd34f9efb242757eb4d49b4cfecb18c23977ada0359bb9"
+    },
+    "assets/fonts/glyphicons-halflings-regular.eot": {
+      "bytes": 20127,
+      "sha256": "13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407"
+    },
+    "assets/fonts/glyphicons-halflings-regular.svg": {
+      "bytes": 108738,
+      "sha256": "42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5"
+    },
+    "assets/fonts/glyphicons-halflings-regular.ttf": {
+      "bytes": 45404,
+      "sha256": "e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456"
+    },
+    "assets/fonts/glyphicons-halflings-regular.woff": {
+      "bytes": 23424,
+      "sha256": "a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742"
+    },
+    "assets/fonts/glyphicons-halflings-regular.woff2": {
+      "bytes": 18028,
+      "sha256": "fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c"
+    },
+    "assets/images/1.jpg": {
+      "bytes": 114519,
+      "sha256": "c46d1c4a7f6e290f3fea6fac67985575d8472808fbbaccb6a1d1ca46b19cd3e0"
+    },
+    "assets/images/2.jpg": {
+      "bytes": 61475,
+      "sha256": "0049cbc7cfdc2860ea57678b07b561872fa7973b5e5e9b13321277f8f7a6b5ea"
+    },
+    "assets/images/3.jpg": {
+      "bytes": 439629,
+      "sha256": "9fd0e607f4d4783bd5a643e934543e7cf4ac8cb9332d52c54b585100ece7bcf1"
+    },
+    "assets/images/4.gif": {
+      "bytes": 116436,
+      "sha256": "64622d41db30e4e64f31c8ecc733dd766e48e2fd42b52b5bf1c69ca3c8c2f82b"
+    },
+    "assets/images/5.jpg": {
+      "bytes": 74732,
+      "sha256": "f30f179313a74e4810e54b328fb01faf6841e7249d94e4ba41a05137c61c0303"
+    },
+    "assets/images/PUBLIC_byk_vert.jpg": {
+      "bytes": 579553,
+      "sha256": "9567d8d5e61d1aa33a850957bbb53db97ac1b094a3ac608194de0dac47987204"
+    },
+    "assets/images/Test_Spiehs.jpg": {
+      "bytes": 1626502,
+      "sha256": "3c97ea6eb63b7aa7b434b76c2250c86686a00ee86f1f29b9a267152e8342370a"
+    },
+    "assets/images/culturehome/SADDLEMAKER.jpg": {
+      "bytes": 102257,
+      "sha256": "393d399a0a18315dbc358b7f4664fd9b593f830341027748781c1857439706ac"
+    },
+    "assets/images/culturehome/academy.jpg": {
+      "bytes": 91159,
+      "sha256": "55b69d582fbcf4cdcb3f591a88b6a381d1c0bc14cf58666a4c71ef50e1b1e40b"
+    },
+    "assets/images/culturehome/amhunt.jpg": {
+      "bytes": 150798,
+      "sha256": "bf4b36009387a4f96f3946652060f00d09ffdd9793efa330bc4d644f849b35d6"
+    },
+    "assets/images/culturehome/camp.jpg": {
+      "bytes": 278650,
+      "sha256": "809bd31ab3c84d9564dbf1ad19e1710c1d9c591add2d064585167493c972f092"
+    },
+    "assets/images/culturehome/helibacon.jpg": {
+      "bytes": 159669,
+      "sha256": "99a48b5c91d7f301e31816ffc13126068042fd61012c6374c5bd1194322694bb"
+    },
+    "assets/images/culturehome/militia.jpg": {
+      "bytes": 640619,
+      "sha256": "a28d3cffdbe05922a37186bc23806aaca62ed553a9d0251175848d33326ca9ec"
+    },
+    "assets/images/culturehome/minn-hunter.jpg": {
+      "bytes": 122006,
+      "sha256": "ab0906ffc405f50374c90411046379448c39fa4beb5f6fccdd3ae7583970c127"
+    },
+    "assets/images/culturehome/montana.jpg": {
+      "bytes": 220791,
+      "sha256": "b86f1ddd4a8a39fca124bdc27dfe0e3f21a1e569aec9f61f2c33382f586f9852"
+    },
+    "assets/images/culturehome/rapid.jpg": {
+      "bytes": 119271,
+      "sha256": "88a9247e8782967e070f726febd253836927fe000d5979070a43e36f886cee0e"
+    },
+    "assets/images/culturehome/sport.jpg": {
+      "bytes": 84141,
+      "sha256": "5745b2d23107e5a24da25afeb07cb37389678781a9d7dea556d361e429728867"
+    },
+    "assets/images/culturehome/tax.jpg": {
+      "bytes": 102063,
+      "sha256": "35d90854d06425da83ab8a5ee94fdc6ec8731c4692f794e09c448abee5c1cae8"
+    },
+    "assets/images/gradient-lt.jpg": {
+      "bytes": 1591,
+      "sha256": "0b555efa3f998096e3758827e13fda53031966c76621ca1d47a42fb13d0ff05e"
+    },
+    "assets/images/gradient.jpg": {
+      "bytes": 1570,
+      "sha256": "4e57a56f098905e926578e8c84eee34c02de5bf9fad3d468b4b8fd7df4cf385b"
+    },
+    "assets/images/politics/2ndAmend_150x150.jpg": {
+      "bytes": 8537,
+      "sha256": "bde551a42c20d9fe788383a8f6b9b179d53ede1a16749ae8456689c66f4e46b9"
+    },
+    "assets/images/politics/NRA_700x350.jpg": {
+      "bytes": 117220,
+      "sha256": "fbda3a806a1533144c36c33e8ebdb1617c5959324e82b1c4dba0d6a341523c53"
+    },
+    "assets/images/politics/NULLIFICATION_150x150.jpg": {
+      "bytes": 10927,
+      "sha256": "da84a0ff77a2cf819321522006c4165191eb24669c6549e86b7bbfdbc10f5cd4"
+    },
+    "assets/images/politics/SHERIFF_150x150.jpg": {
+      "bytes": 9395,
+      "sha256": "7512bc8d92c905bd3a23a22edad3ddeeabc2fa1992fcf5f3986b0b769a2a0162"
+    },
+    "assets/images/politics/WOMEN_700x350.jpg": {
+      "bytes": 54723,
+      "sha256": "01412f23261ac5e8fc30b3d342c4ce7a2880599d69a8faabeb49969b20d14a21"
+    },
+    "assets/images/public/GUNS_CAMPUS_150x150.jpg": {
+      "bytes": 9616,
+      "sha256": "22b1ce53972825c59b17608d24bf729a8bbc55baf0d52df8adcfdd8071075794"
+    },
+    "assets/images/public/K12_700x1055.jpg": {
+      "bytes": 138605,
+      "sha256": "6f396676b17ddd59dbbd1972324e8945b62f25d122922034f968fd2d23084886"
+    },
+    "assets/images/public/PUBLIC_CARRY_150x150.jpg": {
+      "bytes": 11102,
+      "sha256": "8fe702d77953e1311332686960799c0fe81dc60bd8fd2a8f2dae9af7f49a241b"
+    },
+    "assets/images/public/SYG_700x350.jpg": {
+      "bytes": 50166,
+      "sha256": "1a032a30783167eba2d6d81ffcdca8dbcc1bff2659707cc914d7801603f95775"
+    },
+    "assets/images/sidebar.jpg": {
+      "bytes": 170431,
+      "sha256": "17697ea03df3cdc33dac5b05ba9ef1e6ac1c37384345a0e6aafd7ee57d6ee71c"
+    },
+    "assets/images/states/AZ_CT.jpg": {
+      "bytes": 7919,
+      "sha256": "9c363bc60e0356b5641b4bd4fcbd5adf3ae09a27db84384126b315c4ce5d7e93"
+    },
+    "assets/images/states/CALIFORNIA_700x350.jpg": {
+      "bytes": 101610,
+      "sha256": "1dea1bef00801e75c831f268afdbe05ba0bc48764d661c595d2c757423ffc63c"
+    },
+    "assets/images/states/COLO_Aurora_150x150.jpg": {
+      "bytes": 13629,
+      "sha256": "401169d85899d73e5dd4e882e399c9b24e7bce2db45e36cf23dc88d5e1a03f3c"
+    },
+    "assets/images/states/COLO_Columbine_150x150.jpg": {
+      "bytes": 10936,
+      "sha256": "a5a3c38b4a118b1f701ea61b264fc1a2fa4e4c11242b27bacc27ea66b2f113de"
+    },
+    "assets/images/states/COLO_SenRecall_150x150.jpg": {
+      "bytes": 10020,
+      "sha256": "1700ee22379885313b8ae3fa200483aaf913f28faca1b19cd014c47436bd3f3d"
+    },
+    "assets/images/states/NUCLA_700x300.jpg": {
+      "bytes": 53567,
+      "sha256": "fce375f34b1fa5800972e707d80aa43f80a20be4433aacbe4cd4f4fdadccaae0"
+    },
+    "assets/images/states/VIRG_MRYL_150x150.jpg": {
+      "bytes": 9196,
+      "sha256": "a3d3d3f1d8651d17c1195542909024b2a4b470a1b2b0654915855dc9bc4789d8"
+    },
+    "assets/images/states/Washington_Battle_700x350.jpg": {
+      "bytes": 118799,
+      "sha256": "09ef53c8771e0f444f544b76d81b616f3bd0d3a6d34208b1450195dd55c89eb6"
+    },
+    "assets/images/storydev_1.jpg": {
+      "bytes": 641625,
+      "sha256": "cb592bacf9051569c090b792d8d10ec8b407f771ed21d69cb0d4fae622be3edc"
+    },
+    "assets/images/storydev_2.jpg": {
+      "bytes": 1282357,
+      "sha256": "3bb15fa3300326cf16e6cb9e61f864c7fd04eb2980e860966fa112e72d1f4ba9"
+    },
+    "assets/images/test-parallax.jpg": {
+      "bytes": 580496,
+      "sha256": "b567fa5cdc251e0d1bc2a4bb26ab5f2cd935cc3e68a5ab52d7b11ab90fb0eea1"
+    },
+    "assets/images/thumbs/1.jpg": {
+      "bytes": 464931,
+      "sha256": "b6f13af7c0e1c97dc1c4a51b28e623cdaa7be23511eac275615011c335594b38"
+    },
+    "assets/images/thumbs/2.jpg": {
+      "bytes": 16714,
+      "sha256": "e6ad649213def521acb799b26e40ba671434f841b4374b32d4b5744e7ec6159d"
+    },
+    "assets/images/thumbs/3.jpg": {
+      "bytes": 14062,
+      "sha256": "2779d348f43bfe16c48089acfa1aed1c85c68772cc57cbef9fda47d76322933c"
+    },
+    "assets/images/thumbs/extrawide_1.jpg": {
+      "bytes": 86149,
+      "sha256": "ad2f91f784549b0c3880c4722cdd5f6e5b67cba7429973cdfc33f594366802d3"
+    },
+    "assets/images/thumbs/wide_1.jpg": {
+      "bytes": 76484,
+      "sha256": "319e6d9481e4fced84d244e479e5636c9a941f6b4281245f74cb2e7416002598"
+    },
+    "assets/images/violence/CHILD_DEATHS_700x350.jpg": {
+      "bytes": 55993,
+      "sha256": "eb3d519715da4d703ccc2ee16513733fb9dc3901cb0fb5ca6e416f48c558bb3d"
+    },
+    "assets/images/violence/DV_700x350.jpg": {
+      "bytes": 102604,
+      "sha256": "7364562bd56e9e61797c6844f56b4e371320bef2d0318686e15ba438a0c7f736"
+    },
+    "assets/images/violence/GUN_HOMICIDES_700x350.jpg": {
+      "bytes": 37115,
+      "sha256": "2992e1b9270cec4312a5ba7ee7bab0315c681364c63510522ae872c5dd01f6ea"
+    },
+    "assets/images/violence/SUICIDE_700x350.jpg": {
+      "bytes": 72868,
+      "sha256": "f2cc11e10953f94aa4294ae480e3a314e85c57655c055d726714e9afc7200f22"
+    },
+    "assets/img-res/advocacy1/advocacy1-1200.jpg": {
+      "bytes": 345180,
+      "sha256": "caff69657308c719d0b05c761f255e838f1e72d5b33114cae8ff9855a67e6e3d"
+    },
+    "assets/img-res/advocacy1/advocacy1-1600.jpg": {
+      "bytes": 594597,
+      "sha256": "d2d13d98c4cc3b07e4ebd3786ed7637c545ae5f9c32a177b584b9066a7d3b423"
+    },
+    "assets/img-res/advocacy1/advocacy1-2560.jpg": {
+      "bytes": 1420545,
+      "sha256": "cc6ac653536a358cd56ec03705b863a0e7c22dd9523c475588c1aac93d6dd0f7"
+    },
+    "assets/img-res/advocacy1/advocacy1-768.jpg": {
+      "bytes": 148688,
+      "sha256": "5bc45258b7f4d9b7634385c9ee22a90cbd56637b12574b604cda7ea23733e968"
+    },
+    "assets/img-res/alex_tham/alex_tham-1200.jpg": {
+      "bytes": 230609,
+      "sha256": "8a588a55c6ae73829c7d6f569d6a05a0184ae63a22e8878f916f6775b4f22801"
+    },
+    "assets/img-res/alex_tham/alex_tham-1600.jpg": {
+      "bytes": 359713,
+      "sha256": "9bdae88802c345ba05958c74096e08111648dbf90474628da063c07a0dc6be0a"
+    },
+    "assets/img-res/alex_tham/alex_tham-2560.jpg": {
+      "bytes": 736814,
+      "sha256": "0061012f10815282539d0b989ef8ffd336a6036e8590d48ba882d13738b2e835"
+    },
+    "assets/img-res/alex_tham/alex_tham-768.jpg": {
+      "bytes": 114969,
+      "sha256": "ff15289edab5aef1fffcd6ac08041995c0d7d47739a50c93434f97ddd66a61ec"
+    },
+    "assets/img-res/azct_par/azct_par-1200.jpg": {
+      "bytes": 118530,
+      "sha256": "be2c07e73b0ac1112d001fba2c7754e1c14142d251a283a50610ba06c9da3b0e"
+    },
+    "assets/img-res/azct_par/azct_par-1600.jpg": {
+      "bytes": 197252,
+      "sha256": "5ce495036c576ee8010b45b52ece2f62c2b9082201c5828c917150acd144c719"
+    },
+    "assets/img-res/azct_par/azct_par-2560.jpg": {
+      "bytes": 472035,
+      "sha256": "9994e822629c8c995b37b08f0e65fe7b1573e3dfac838a5e9d9c3998e36bba69"
+    },
+    "assets/img-res/azct_par/azct_par-768.jpg": {
+      "bytes": 56824,
+      "sha256": "a11b00326d8a96f8023eb5cec5c3d4bdec10409ae723abba75a22b7872c4ac40"
+    },
+    "assets/img-res/br_plx/br_plx-1200.jpg": {
+      "bytes": 243557,
+      "sha256": "89f4b24f36fa7d975e1a48df7b5379024e860c8715426e7ae8ffb8f5e9db8865"
+    },
+    "assets/img-res/br_plx/br_plx-1600.jpg": {
+      "bytes": 409054,
+      "sha256": "ca250a7691961882ba92935f2c3737d1ab5b0059ec32ac6d1e7a404865546370"
+    },
+    "assets/img-res/br_plx/br_plx-2560.jpg": {
+      "bytes": 928936,
+      "sha256": "d975ebf2964b93c2ddd26139be101d9c6a8301f38faef4db9f6a588e80075f1e"
+    },
+    "assets/img-res/br_plx/br_plx-768.jpg": {
+      "bytes": 107251,
+      "sha256": "5be1f4598a1266778e8c9235e4bf9cf3be0ad10953fbb0f79534b6133a46884c"
+    },
+    "assets/img-res/cmd_plx/cmd_plx-1200.jpg": {
+      "bytes": 290956,
+      "sha256": "6b8c7470c98e627453d8dff0495259951eadfff2ab048f0cddc379f07058befc"
+    },
+    "assets/img-res/cmd_plx/cmd_plx-1600.jpg": {
+      "bytes": 490201,
+      "sha256": "fb6646129f2350a3ab82f1ff96b8857fdd6630f29542bef84cc6ef4608e374b8"
+    },
+    "assets/img-res/cmd_plx/cmd_plx-2560.jpg": {
+      "bytes": 1114534,
+      "sha256": "25cf3ad453c7849da2708c38a0fea053feaac498ce8bbf6d744cb8a274782252"
+    },
+    "assets/img-res/cmd_plx/cmd_plx-768.jpg": {
+      "bytes": 129480,
+      "sha256": "c75bbd2ee7b033d92297bd5a9d01b2231d3a567f2c9dfe8a9bc410f73a919bdb"
+    },
+    "assets/img-res/co_plx/co_plx-1200.jpg": {
+      "bytes": 268492,
+      "sha256": "4a6e5468cff2eeaaf0742bc48626114b9026df86d660870c7dc6a7226c638213"
+    },
+    "assets/img-res/co_plx/co_plx-1600.jpg": {
+      "bytes": 471007,
+      "sha256": "6fcf8c6dc4bed3c7025a4b054ac4db9358abe7880aa06415169f01386eb22033"
+    },
+    "assets/img-res/co_plx/co_plx-2560.jpg": {
+      "bytes": 292366,
+      "sha256": "e07b1dc11429f9dc3ae0de0f3d2ecf33bb8c467f7f1639d860a1b3f6819aa3b1"
+    },
+    "assets/img-res/co_plx/co_plx-768.jpg": {
+      "bytes": 112107,
+      "sha256": "55245359d5c30cdead18fe827ac8824ef626c115be511afc002b8d1963318f1e"
+    },
+    "assets/img-res/culture/culture-1200.jpg": {
+      "bytes": 107113,
+      "sha256": "0f189ad9dae43a3cbd1a5dd0ca3bdd406731e22206682c322210b0f2406bc2ca"
+    },
+    "assets/img-res/culture/culture-1600.jpg": {
+      "bytes": 165809,
+      "sha256": "fb89674dfd9decec6535b47ed3163c0423331f301be5bcfaaea28e1ef2cbfc88"
+    },
+    "assets/img-res/culture/culture-2560.jpg": {
+      "bytes": 365323,
+      "sha256": "8b7f9278323ed72cb5a344f6054ba024bf10e099a238bc378d27a7b63c662d94"
+    },
+    "assets/img-res/culture/culture-768.jpg": {
+      "bytes": 61154,
+      "sha256": "3cb0782eb5779f4fb6afb512c4ad9712e6e8307d573a319ae7bc06061c0248d7"
+    },
+    "assets/img-res/everytown/everytown-1200.jpg": {
+      "bytes": 128057,
+      "sha256": "329ee82c12154e82e7bff51aff1c78de1ad5c75f4f50bb48015f9639c927ef47"
+    },
+    "assets/img-res/everytown/everytown-1600.jpg": {
+      "bytes": 198383,
+      "sha256": "31b39667130e28df0c4f2392e5091e9f3b9701b425d5d3d483f084b3c234f9df"
+    },
+    "assets/img-res/everytown/everytown-2560.jpg": {
+      "bytes": 434560,
+      "sha256": "747fef90dba9c98af9e0d5c631f2ba49f95186b20dc91324c7060247a6acb232"
+    },
+    "assets/img-res/everytown/everytown-768.jpg": {
+      "bytes": 67071,
+      "sha256": "bbd86b240f670e011862b5246917dd117d1a383cd8ded32b27b03dfd75a1fabb"
+    },
+    "assets/img-res/flt_plx/flt_plx-1200.jpg": {
+      "bytes": 235998,
+      "sha256": "e4e3a31d166056f5939f8137cd2638e147fb9273c158f1533bcdadf484e24bcb"
+    },
+    "assets/img-res/flt_plx/flt_plx-1600.jpg": {
+      "bytes": 396502,
+      "sha256": "ac720113432b97faab121477cb97a399e3df76c69453ab525f84455a21496734"
+    },
+    "assets/img-res/flt_plx/flt_plx-2560.jpg": {
+      "bytes": 924217,
+      "sha256": "8603d9fff603b152d5dfebb66ef43ba01d5c5a694995560a59f7e641eadfc7c3"
+    },
+    "assets/img-res/flt_plx/flt_plx-768.jpg": {
+      "bytes": 106176,
+      "sha256": "bfdb1ef25798b1fbe3f8638835f632e1e23aa2513b282f53a2022049fbfa5f6f"
+    },
+    "assets/img-res/k12_plx/k12_plx-1200.jpg": {
+      "bytes": 251429,
+      "sha256": "0c0c6be9bb649b713e762d29e19222192dd02a917c587068bf60e796cc35b22c"
+    },
+    "assets/img-res/k12_plx/k12_plx-1600.jpg": {
+      "bytes": 446350,
+      "sha256": "d53b0b859ba7008452517c73e0022336dd14aea3ce61792ca3edb6d815f2fac9"
+    },
+    "assets/img-res/k12_plx/k12_plx-2560.jpg": {
+      "bytes": 1096329,
+      "sha256": "2fdf0237f4657075655a8e597c8a4e719f3a423f44c8a70c2aa9a7e77a3cbafe"
+    },
+    "assets/img-res/k12_plx/k12_plx-768.jpg": {
+      "bytes": 104599,
+      "sha256": "d1becfcdfe27e71e61caee03a53c08c143c0073d037e6ed064e04e5b1832f40f"
+    },
+    "assets/img-res/law_plx/law_plx-1200.jpg": {
+      "bytes": 202639,
+      "sha256": "562099cd8210af5de3be14393efc491180f5d06598407ff46bbec8b8f0db7ce9"
+    },
+    "assets/img-res/law_plx/law_plx-1600.jpg": {
+      "bytes": 304604,
+      "sha256": "78f47a07499cbfe898bffc9a6c579515783761785c551bc8224a09e1e69f9804"
+    },
+    "assets/img-res/law_plx/law_plx-2560.jpg": {
+      "bytes": 624836,
+      "sha256": "2150c5091b8d9b6b3abbc53a24a0f6b0b550bb78c3e8f2760eed3edabe29aaa1"
+    },
+    "assets/img-res/law_plx/law_plx-768.jpg": {
+      "bytes": 106780,
+      "sha256": "763a30e4e342d4071775a2a307120c4a9589971d713853eddf7d007df88a149f"
+    },
+    "assets/img-res/militia_plx/militia_plx-1200.jpg": {
+      "bytes": 303714,
+      "sha256": "7cc68be7bfac443cab6f23fd2025cb67b3aeb13e715f5d06ab539b9083e59012"
+    },
+    "assets/img-res/militia_plx/militia_plx-1600.jpg": {
+      "bytes": 514453,
+      "sha256": "c0a2eee8e3beb135c3a212a1f4278f600d07e1056a2116b076f2edd3b066a1b2"
+    },
+    "assets/img-res/militia_plx/militia_plx-2560.jpg": {
+      "bytes": 1214721,
+      "sha256": "c2295d970c527ffca1c8320f2db9106b472fb0fc1d615d9760798fe4cddcb00a"
+    },
+    "assets/img-res/militia_plx/militia_plx-768.jpg": {
+      "bytes": 136649,
+      "sha256": "8b65fbe295a995713a6cf08f0fdc8b88bef0d0f8200f8b716e87091fed32d4b2"
+    },
+    "assets/img-res/mt_a_plx/mt_a_plx-1200.jpg": {
+      "bytes": 109539,
+      "sha256": "ec753d3d4f2857ad15382328542184ef5b62a4a82ba1ce460aa04ba6e7ce0db3"
+    },
+    "assets/img-res/mt_a_plx/mt_a_plx-1600.jpg": {
+      "bytes": 169621,
+      "sha256": "022ba34a0e33de1829c0002d076044aa75bcb62e55d88ecb6aa9275ed4248428"
+    },
+    "assets/img-res/mt_a_plx/mt_a_plx-2560.jpg": {
+      "bytes": 339795,
+      "sha256": "5dd645d4734d5cda27b8cc14dbf7643507cb57e2b521fe2b0cb2967aff67005a"
+    },
+    "assets/img-res/mt_a_plx/mt_a_plx-768.jpg": {
+      "bytes": 54714,
+      "sha256": "e203830012edfa843c93f0290c4d0b5464e452e21f0b3cea18a0c4f75bfee396"
+    },
+    "assets/img-res/mt_b_plx/mt_b_plx-1200.jpg": {
+      "bytes": 299514,
+      "sha256": "7258b51181fe6db0a9a75c89d31105a2989da13c9e9d43b732e11f8dc3adacce"
+    },
+    "assets/img-res/mt_b_plx/mt_b_plx-1600.jpg": {
+      "bytes": 510174,
+      "sha256": "d3272dd6da3b15a3574559ce65443d761050ff04443f0b2bba76ad11c0137b61"
+    },
+    "assets/img-res/mt_b_plx/mt_b_plx-2560.jpg": {
+      "bytes": 1151308,
+      "sha256": "3d5948e3ae05ee32e74dce1eb5510a2dcad17e1d9a0c5e601cf8b0af3bc67517"
+    },
+    "assets/img-res/mt_b_plx/mt_b_plx-768.jpg": {
+      "bytes": 128039,
+      "sha256": "f2305213c6c04cb52cb0e86d6c2b09c524b271d66c2d16edef7fb9303f5722ba"
+    },
+    "assets/img-res/nra_lead/nra_lead-1200.jpg": {
+      "bytes": 247951,
+      "sha256": "ffc2ba4e198ae9dc8af8451ce84f49012dd7e19ba0ef13bdd79baa379469f9af"
+    },
+    "assets/img-res/nra_lead/nra_lead-1600.jpg": {
+      "bytes": 409886,
+      "sha256": "c074f4c030b90d16a02f27e55cf0b84a6f570d8cfb9fe9cdb3fd37dceff765cc"
+    },
+    "assets/img-res/nra_lead/nra_lead-2560.jpg": {
+      "bytes": 954344,
+      "sha256": "9b60d415e0fe9bf7743a9bb4c3d9174a9e4d0fc0a6a8958a9bb0ac192f16d3dd"
+    },
+    "assets/img-res/nra_lead/nra_lead-768.jpg": {
+      "bytes": 114795,
+      "sha256": "45f146268b5459fc632e1d91221f64d35bc8d86e750dadb4c31e63e0c5667704"
+    },
+    "assets/img-res/nucla2-plx/nucla2-plx-1200.jpg": {
+      "bytes": 296717,
+      "sha256": "33599545997753f99d51be71b1bb03a47180e8f2fbb0be21f2d4dd9cc16cb5fd"
+    },
+    "assets/img-res/nucla2-plx/nucla2-plx-1600.jpg": {
+      "bytes": 468622,
+      "sha256": "f23e5e0668d0758c1d884c2afcd59df15fe7e995b443c8799e7f970a57f3d948"
+    },
+    "assets/img-res/nucla2-plx/nucla2-plx-2560.jpg": {
+      "bytes": 974950,
+      "sha256": "fd5513aff6ccb9df7c567e109c1ce3339362d3f33974f85a866dc65d954679b9"
+    },
+    "assets/img-res/nucla2-plx/nucla2-plx-768.jpg": {
+      "bytes": 145058,
+      "sha256": "6739f5769037b1ea42c897c380ef62cec8da59309fd4ecb122e9fd7f6a895975"
+    },
+    "assets/img-res/politics/politics-1200.jpg": {
+      "bytes": 184053,
+      "sha256": "4d1e686eb7f5e0d19178d06a140c6623a19affa285194f9049a76bce0f466ee8"
+    },
+    "assets/img-res/politics/politics-1600.jpg": {
+      "bytes": 298111,
+      "sha256": "1381b86a383016f70a46d35612bfa3ebdc71093651919cce5432c139b362beaa"
+    },
+    "assets/img-res/politics/politics-2560.jpg": {
+      "bytes": 673998,
+      "sha256": "1217e84d16bfaa8594d30b56e371b363645b7742340c0ec2998bd8a2542ac3bd"
+    },
+    "assets/img-res/politics/politics-768.jpg": {
+      "bytes": 184053,
+      "sha256": "4d1e686eb7f5e0d19178d06a140c6623a19affa285194f9049a76bce0f466ee8"
+    },
+    "assets/img-res/public/public-1200.jpg": {
+      "bytes": 175361,
+      "sha256": "94a9629435dca260fb1bde49a4c95f2623719090ec1e5e8d9e39e5d2ffb58f6d"
+    },
+    "assets/img-res/public/public-1600.jpg": {
+      "bytes": 282438,
+      "sha256": "89ff16733ccdbeed071e5eb9b4bd6f2db3fa91faf7d3c6bd03c35a35fe6561c1"
+    },
+    "assets/img-res/public/public-2560.jpg": {
+      "bytes": 617681,
+      "sha256": "d52b487d471b214e34d001738840f8667199221acf75da9903b1b7cb8c5a3233"
+    },
+    "assets/img-res/public/public-768.jpg": {
+      "bytes": 39689,
+      "sha256": "13ce9d10ae5098473353a59a12cf4ae6751bbf68b7452937e11d5f77f6fc4f22"
+    },
+    "assets/img-res/safeway/safeway-1200.jpg": {
+      "bytes": 168673,
+      "sha256": "a69f6e1a4eb0f9e284dea2cc129619dc88a0acfb6cf788d05bd61fc21271e0b3"
+    },
+    "assets/img-res/safeway/safeway-1600.jpg": {
+      "bytes": 272495,
+      "sha256": "fc21628f3670608b99a8fa53c5cf62b7aec9e3c62e875534faefc15db0fe44a6"
+    },
+    "assets/img-res/safeway/safeway-2560.jpg": {
+      "bytes": 605384,
+      "sha256": "8d1d8710e01ba2c43579f1c07be5da8fced49bbe38c0433f0c45c9f270d4928e"
+    },
+    "assets/img-res/safeway/safeway-768.jpg": {
+      "bytes": 80130,
+      "sha256": "d6a0f3046d3c74851d55dc12bf158895b6cdd3f6f2ae578a1cabbe9508f1047d"
+    },
+    "assets/img-res/sarah_thomas/sarah_thomas-1200.jpg": {
+      "bytes": 279737,
+      "sha256": "8b347c3f1f574b4d7115398b6cdb29d0434aec220f58ff8c103ddb087034485d"
+    },
+    "assets/img-res/sarah_thomas/sarah_thomas-1600.jpg": {
+      "bytes": 433297,
+      "sha256": "3e4082277c01675c250ae1b90e807cf10efa8f0bfaba1ea6ebc47c13a5071cc6"
+    },
+    "assets/img-res/sarah_thomas/sarah_thomas-2560.jpg": {
+      "bytes": 872294,
+      "sha256": "79921d4d4f79a5ef7d4c86be6001770595c2f79f56d2d97fe02352f00e9abda0"
+    },
+    "assets/img-res/sarah_thomas/sarah_thomas-768.jpg": {
+      "bytes": 139799,
+      "sha256": "aa0fffac30e9a6d157297309bd82975047966ce2dadeb1d3e140faeab936f1f8"
+    },
+    "assets/img-res/states/states-1200.jpg": {
+      "bytes": 132377,
+      "sha256": "e417938ec2bcfe2b55597ba192be52d0f70c0b9686010c80edb5876515a35122"
+    },
+    "assets/img-res/states/states-1600.jpg": {
+      "bytes": 221301,
+      "sha256": "1ae993b5021f2cf7f0d469ac7062f7208b8c637d8f076dc23c328b0489891f15"
+    },
+    "assets/img-res/states/states-2560.jpg": {
+      "bytes": 538327,
+      "sha256": "6170328cdafef9361854930cb377e4d16a1eb3c6db299a54dfe7800b9d7421f0"
+    },
+    "assets/img-res/states/states-768.jpg": {
+      "bytes": 132377,
+      "sha256": "e417938ec2bcfe2b55597ba192be52d0f70c0b9686010c80edb5876515a35122"
+    },
+    "assets/img-res/sticker_plx/sticker_plx-1200.jpg": {
+      "bytes": 153085,
+      "sha256": "600fa4095d2867e2bc5f42f4ceb33923a7b829204ba8b15854cab2034cb10048"
+    },
+    "assets/img-res/sticker_plx/sticker_plx-1600.jpg": {
+      "bytes": 240830,
+      "sha256": "8cf31046fec6002a8405f9715270eeb8ef1adf8f8da5d72bdddfde37e2315be1"
+    },
+    "assets/img-res/sticker_plx/sticker_plx-2560.jpg": {
+      "bytes": 240830,
+      "sha256": "1b54243059b736a7f881fb9b63bd1692fef5313962962fa8e01a0350fcf88724"
+    },
+    "assets/img-res/sticker_plx/sticker_plx-768.jpg": {
+      "bytes": 76782,
+      "sha256": "9547f6c36ca3c6fcbec69a751481b53e807798eb2d65d357dd836ec8905e773b"
+    },
+    "assets/img-res/test/test-1200.jpg": {
+      "bytes": 252470,
+      "sha256": "274d7c26285e748283636475adec0ba5a8bffdefb84adc9d338b467e6da23261"
+    },
+    "assets/img-res/test/test-1600.jpg": {
+      "bytes": 384260,
+      "sha256": "ce564bfa39f120a2c19ee65167bb47013139011f4ae15bb9f78f2d24ba3e2536"
+    },
+    "assets/img-res/test/test-2560.jpg": {
+      "bytes": 776789,
+      "sha256": "0eb4b1405c3c5a4173fd9b941f1444954dc059a36b7812d61d37f717b3f16c1f"
+    },
+    "assets/img-res/test/test-768.jpg": {
+      "bytes": 142180,
+      "sha256": "4ed7e398eac691ed3da75b115cd7ff8476ae6564d6a0754215a1fc8c1cb41039"
+    },
+    "assets/img-res/top/top-1200.jpg": {
+      "bytes": 252470,
+      "sha256": "274d7c26285e748283636475adec0ba5a8bffdefb84adc9d338b467e6da23261"
+    },
+    "assets/img-res/top/top-1600.jpg": {
+      "bytes": 384260,
+      "sha256": "ce564bfa39f120a2c19ee65167bb47013139011f4ae15bb9f78f2d24ba3e2536"
+    },
+    "assets/img-res/top/top-2560.jpg": {
+      "bytes": 776789,
+      "sha256": "0eb4b1405c3c5a4173fd9b941f1444954dc059a36b7812d61d37f717b3f16c1f"
+    },
+    "assets/img-res/top/top-768.jpg": {
+      "bytes": 142180,
+      "sha256": "4ed7e398eac691ed3da75b115cd7ff8476ae6564d6a0754215a1fc8c1cb41039"
+    },
+    "assets/img-res/violence/violence-1200.jpg": {
+      "bytes": 336085,
+      "sha256": "d416f87bff482f0e98e0aa2ab0c6ce5667e7c26133a6ad4ec8f1c3cf14206cb0"
+    },
+    "assets/img-res/violence/violence-1600.jpg": {
+      "bytes": 565483,
+      "sha256": "43bfad958b100075b37d2b32eea7abd53b13fc1e579a64044fc0ed214a953a21"
+    },
+    "assets/img-res/violence/violence-2560.jpg": {
+      "bytes": 1279645,
+      "sha256": "e12fc7a2bc9aaac1a34448e5fba7c0970a30734f7940718ef5f83ef712896f8d"
+    },
+    "assets/img-res/violence/violence-768.jpg": {
+      "bytes": 336085,
+      "sha256": "d416f87bff482f0e98e0aa2ab0c6ce5667e7c26133a6ad4ec8f1c3cf14206cb0"
+    },
+    "assets/img-res/vt_plx/vt_plx-1200.jpg": {
+      "bytes": 159395,
+      "sha256": "60d2edddcbaa09527ebc2d7890a0f3512ef10ad6a5112375075b2ea8acb2d8aa"
+    },
+    "assets/img-res/vt_plx/vt_plx-1600.jpg": {
+      "bytes": 264934,
+      "sha256": "aac3f061752aec4b3be75567e864dcee2994bbefb02bc18befdb7343ce15a906"
+    },
+    "assets/img-res/vt_plx/vt_plx-2560.jpg": {
+      "bytes": 597058,
+      "sha256": "58a2ab1ec19c12c519c5a3bebd919d2172e9450754a1f0995e8d765af4b30b14"
+    },
+    "assets/img-res/vt_plx/vt_plx-768.jpg": {
+      "bytes": 73801,
+      "sha256": "7beaef6aca5fa2000d6447036ce8f768e435b89d6fbcfad3e37118be83f2aac0"
+    },
+    "assets/img-res/washington_parallax/washington_parallax-1200.jpg": {
+      "bytes": 292377,
+      "sha256": "4bc564d655ffe354ef20fd608906573a8336d3e44854fd132f406dbbc5fb7423"
+    },
+    "assets/img-res/washington_parallax/washington_parallax-1600.jpg": {
+      "bytes": 491129,
+      "sha256": "1240ccd18344652b1d6ba347fd7b8b177331f2034a2d97f8e2205f4f763a0f6e"
+    },
+    "assets/img-res/washington_parallax/washington_parallax-2560.jpg": {
+      "bytes": 1106656,
+      "sha256": "082e41a95e56419f039e00b265072ff1439ab80bec22aacdf9d6c400e7044e03"
+    },
+    "assets/img-res/washington_parallax/washington_parallax-768.jpg": {
+      "bytes": 129324,
+      "sha256": "35664dbd7ed4746de9f36cad519f21b5348326f2d5838c2313929e57f65e7604"
+    },
+    "assets/img-res/weaver_plx/weaver_plx-1200.jpg": {
+      "bytes": 107044,
+      "sha256": "a78189f733bd18afdc2bb80f13ae3540c6e474fc863bfbac029ead9bdedfa380"
+    },
+    "assets/img-res/weaver_plx/weaver_plx-1600.jpg": {
+      "bytes": 182258,
+      "sha256": "e818af3eb1afe9f8ce20178277709e4caf2ef2a5430c95b5879479f424c37060"
+    },
+    "assets/img-res/weaver_plx/weaver_plx-2560.jpg": {
+      "bytes": 466071,
+      "sha256": "1bc68fac32b13433c8e643b13cdd8725474a4b85f1cbe23388fe784fc1797211"
+    },
+    "assets/img-res/weaver_plx/weaver_plx-768.jpg": {
+      "bytes": 49333,
+      "sha256": "ff193638335d00cd00397dfe59069101a7972d1c869ff8bd69989bcd0884adab"
+    },
+    "assets/img-res/women_a_plx/women_a_plx-1200.jpg": {
+      "bytes": 103803,
+      "sha256": "3042c4cdf78ad75fb25f61baa62e542b2ec547caf0c6b5a42a1f48aba1476259"
+    },
+    "assets/img-res/women_a_plx/women_a_plx-1600.jpg": {
+      "bytes": 158239,
+      "sha256": "bde9e7d6a19a64eed2a9b75c5dd58a4a9e428c6c636c708e77086e9b892ab681"
+    },
+    "assets/img-res/women_a_plx/women_a_plx-2560.jpg": {
+      "bytes": 367383,
+      "sha256": "cef8f2854ab7b6d914fd88a2a40f253dbdd4c736ebafe463b3495cabf85251f6"
+    },
+    "assets/img-res/women_a_plx/women_a_plx-768.jpg": {
+      "bytes": 56383,
+      "sha256": "0501793aa4026a4f4248a41cfd632b9c301c93e055def6e9103148fc5e7020a9"
+    },
+    "assets/js/LICENSE": {
+      "bytes": 1080,
+      "sha256": "5c71ab48f2ef7ad26c5fb14cb33a8f0b9b219f042d778f6ab35f513a40d72797"
+    },
+    "assets/js/bootstrap-tab.js": {
+      "bytes": 3496,
+      "sha256": "2ffae170607365ae77f3e6d247dab0157b31f5ae9f368775c08c6eeebf66102a"
+    },
+    "assets/js/bootstrap.min.js": {
+      "bytes": 35601,
+      "sha256": "f971b901aeb9e55b07d472afee09bd5ae05159e1119dbd16d993e473565e7fc0"
+    },
+    "assets/js/demos.js": {
+      "bytes": 550,
+      "sha256": "b2cc1255913f2f2274214a823d8ab425e68d18efbcf8fbfe5091fcd1069be71b"
+    },
+    "assets/js/flights.js": {
+      "bytes": 4512,
+      "sha256": "cc72e0dd4621d8738fc6cb1f94168fc01a65acc021c6e16af965143dde6cbc0f"
+    },
+    "assets/js/footable.js": {
+      "bytes": 36685,
+      "sha256": "13e92629ec2227e56e9afdda28c310506524f7889401bc9775da7bd97945dbd3"
+    },
+    "assets/js/footable.sort.js": {
+      "bytes": 8169,
+      "sha256": "23f2264cb49100100f6cffe4f1115ffc519ed37ca64cab3626b72813e1b5019d"
+    },
+    "assets/js/galleria-1.4.2.min.js": {
+      "bytes": 74746,
+      "sha256": "343faa4d06dd00d04cd6632c215c96302faf1525f82be005a14959f71e68d383"
+    },
+    "assets/js/google-analytics.js": {
+      "bytes": 392,
+      "sha256": "711e2924abc5bbaf736ae4d44b56da17c0bc08182d25d3488c667b7ec40fa22b"
+    },
+    "assets/js/html5shiv.min.js": {
+      "bytes": 2730,
+      "sha256": "dc9cbf19b48bae0d28f72e59e67d6ec34ab1644087ec2e8e42954180d1586b48"
+    },
+    "assets/js/ie-emulation-modes-warning.js": {
+      "bytes": 2132,
+      "sha256": "15ed8024d20e9f3685c0cc986bb2c3900fb3cc6f686bfe0a92d1b56fa3a06a2e"
+    },
+    "assets/js/ie10-viewport-bug-workaround.js": {
+      "bytes": 721,
+      "sha256": "881a8e6bac78d0ddfd4817d964cf2199ae88b9d7a3815e69e0a84859cfcde569"
+    },
+    "assets/js/jquery-ui.min.js": {
+      "bytes": 84574,
+      "sha256": "66e1c6167f0f3dd36b0b3f745e8ee99670c3ef175e965853190f3d87616a748f"
+    },
+    "assets/js/jquery.min.js": {
+      "bytes": 84245,
+      "sha256": "874706b2b1311a0719b5267f7d1cf803057e367e94ae1ff7bf78c5450d30f5d4"
+    },
+    "assets/js/jquery.responsiveiframe.js": {
+      "bytes": 4446,
+      "sha256": "a4ec8fbdc69449afeb941784d3382c7328392892df89e8f7d79f4af52b0c9f52"
+    },
+    "assets/js/popcorn-complete.min.js": {
+      "bytes": 114383,
+      "sha256": "54e351babe5a6ce83b353e7d0e589a563adbd5b159de915ecc0466d3083409e4"
+    },
+    "assets/js/respond.min.js": {
+      "bytes": 4593,
+      "sha256": "1944a255577a8ed66ae984c6f6356281ff6f29dc84a2af6f1facf258c7dab62e"
+    },
+    "assets/js/soundcite.min.js": {
+      "bytes": 7233,
+      "sha256": "a7ed25bb2c776d6a653fff921f2d30e45db0e7c22c795d37d68356fad63e62c0"
+    },
+    "assets/js/storymap-min.js": {
+      "bytes": 243954,
+      "sha256": "218c01502ecce172c63e560983e9bb1bf512e11c6744cd171474ff358f16cd70"
+    },
+    "assets/logo_nav.png": {
+      "bytes": 3916,
+      "sha256": "6d2987e81cd24caf426316117f4a6672b4fd6aefbde3dff1ef8726b2a8d8e9c4"
+    },
+    "assets/logos/PIN_woR.png": {
+      "bytes": 13583,
+      "sha256": "fe9c0bc52689fb4da23023e232f645b8bcc249f16d93f3f5327ab51e07f8f3d3"
+    },
+    "assets/logos/carnegie.png": {
+      "bytes": 2771,
+      "sha256": "3421d59b56cbafdda266783936ddddc0f1039ff5378701493c8b3a9bf3a5df6c"
+    },
+    "assets/logos/cronkite.png": {
+      "bytes": 4618,
+      "sha256": "6570186a260ba74b35cdbd0d11c9761938f0fce7d0243a914188365f1ad64f03"
+    },
+    "assets/logos/knight.png": {
+      "bytes": 4051,
+      "sha256": "f50e9cfb9a1b491497253f9fdb075f4c1a0c6c63cee63589f968afa1e8eb2c4d"
+    },
+    "assets/logos/logo-invert.png": {
+      "bytes": 18926,
+      "sha256": "00a251273bd8a6559722c798e82c187b03e4c61454300149dd9a44dfeffd6e1d"
+    },
+    "assets/logos/logo_black.png": {
+      "bytes": 37357,
+      "sha256": "9be2512b3519bf3783fef4376505f6698c449b20e875828c709f60dad795f2e5"
+    },
+    "assets/logos/logo_news21_bw.png": {
+      "bytes": 3542,
+      "sha256": "93c6872ced529b3a2271d5f9179bbb36141fed9eb27d394ab3628ffed31e1cfb"
+    },
+    "assets/logos/n21.png": {
+      "bytes": 7970,
+      "sha256": "8ba54ca4baf213ac124d5724dfde4cff37fe5b2bb717eefb7800370fca70b433"
+    },
+    "assets/logos/n21_small.jpg": {
+      "bytes": 4552,
+      "sha256": "6a761e302a8aa4f7ec877874be92b9d0f203cfda7a37cab09ec325eaee1d6858"
+    },
+    "assets/prod/fullscreen.png": {
+      "bytes": 299,
+      "sha256": "c83b73f9d863b80a28eaaf71734d3efd7353ac6c045ab37cd293a77857689788"
+    },
+    "assets/prod/fullscreen.svg": {
+      "bytes": 6032,
+      "sha256": "834379100915afe1104b264795af41e800ec2f6143585c553035360d150c15f2"
+    },
+    "assets/prod/fullscreen@2x.png": {
+      "bytes": 420,
+      "sha256": "1d58b682e64eeac7a47f636082295bce3513bc90f0797a523014bcd5f86d9d7d"
+    },
+    "assets/prod/texture.png": {
+      "bytes": 80064,
+      "sha256": "8031f9d325d886dbf825560e1940e35c489ea508a5d1e4f8f2ec4b25894f08d1"
+    },
+    "assets/snowfall-orig.mp4": {
+      "bytes": 1931171,
+      "sha256": "28b66ed9976b5d8a48d81c3bb2160df0d43d1e003993cca1cbabed470110df3f"
+    },
+    "assets/snowfall-orig.png": {
+      "bytes": 230355,
+      "sha256": "fc429913d8db6df4a212b467b1dda4d972243efe031c53599277653833f6924e"
+    },
+    "assets/snowfall-orig.webm": {
+      "bytes": 1577250,
+      "sha256": "9722bf17941ad8359d0565eccad5cb395543a32979fe2cbac875e8f142519053"
+    },
+    "assets/snowfall.mp4": {
+      "bytes": 625915,
+      "sha256": "59838d63dc63d1958becc2c29bd732340186a9238eb54d1712602c80b934b8b8"
+    },
+    "assets/snowfall.png": {
+      "bytes": 221678,
+      "sha256": "809248b7c34eb91ec1eafee3da0df219748e3ebf99ec84bd37fbdf6b0313a2e1"
+    },
+    "assets/snowfall.webm": {
+      "bytes": 305741,
+      "sha256": "f14831329ad0d18d54b4ff94bd7333a12d9981dcde5010ffb9317c4be84af351"
+    },
+    "assets/webfont/glyphicons-halflings-regular.eot": {
+      "bytes": 20335,
+      "sha256": "f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431"
+    },
+    "assets/webfont/glyphicons-halflings-regular.svg": {
+      "bytes": 62927,
+      "sha256": "d168d50a88c730b4e6830dc0da2a2b51dae4658a77d9619943c27b8ecfc19d1a"
+    },
+    "assets/webfont/glyphicons-halflings-regular.ttf": {
+      "bytes": 41280,
+      "sha256": "bd18efd3efd70fec8ad09611a20cdbf99440b2c1d40085c29be036f891d65358"
+    },
+    "assets/webfont/glyphicons-halflings-regular.woff": {
+      "bytes": 23320,
+      "sha256": "fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e"
+    },
+    "assets/webfont/icomoon.eot": {
+      "bytes": 2468,
+      "sha256": "fed17d2ca45be10f8facceb669ede2a52ba70db35cca2dd95f54e4e670ee1633"
+    },
+    "assets/webfont/icomoon.svg": {
+      "bytes": 3900,
+      "sha256": "b448df7804e954c695324c49464285bde3c8b468f2ddb1ae27027011918df7cd"
+    },
+    "assets/webfont/icomoon.ttf": {
+      "bytes": 2304,
+      "sha256": "82deae05f5f6b2ec6535808fee279388b7bb7180fc7ffd9dd4f532da1d300bb9"
+    },
+    "assets/webfont/icomoon.woff": {
+      "bytes": 1936,
+      "sha256": "12cdf5b45f8f3828512ea1ded19f1f7b65ce993a8e0df4cc7cf7363e05efea0f"
+    },
+    "assets/webfont/stateface-regular-webfont.eot": {
+      "bytes": 18384,
+      "sha256": "3c64c2da16f3351da05c02a92dd6614ff03e9ed94f60531d6de428e3c2fbb0e2"
+    },
+    "assets/webfont/stateface-regular-webfont.svg": {
+      "bytes": 45868,
+      "sha256": "169d91f4e95bd0ce7139a20d715dd1359e9edc01408b8c2cc35857e9adf541ef"
+    },
+    "assets/webfont/stateface-regular-webfont.ttf": {
+      "bytes": 27096,
+      "sha256": "5b38439e9b98c507589f517dc4cae6565972095c4551d1aa96e5be3628193552"
+    },
+    "assets/webfont/stateface-regular-webfont.woff": {
+      "bytes": 19940,
+      "sha256": "aa1c1b5e43c442fb7d071ccc07ef68f239e4249758f44a29f7a9ada7776b12dc"
+    },
+    "breaking-the-cycle-of-addiction-isnt-easy-former-users-now-sponsors-can-be-key/index.html": {
+      "bytes": 12308,
+      "sha256": "6122aaef699a388f8a578989c6441692b46a75bb9cc990d72eaf127922b18025"
+    },
+    "data/index.html": {
+      "bytes": 12787,
+      "sha256": "052f97374342a97247d1a7207592573d51094402fc59e8b8aab76c841f4890f4"
+    },
+    "documentary-espanol/index.html": {
+      "bytes": 11018,
+      "sha256": "d64730ab399c29f2faeca40c0134c8762afe6f597e44d0475ee296d19fc74005"
+    },
+    "documentary-radio-espanol/index.html": {
+      "bytes": 10985,
+      "sha256": "f37f9981a2f7a6a07a91b88001e116521a83d2721df0e7ae551dc3f51c75a765"
+    },
+    "documentary-radio/index.html": {
+      "bytes": 10934,
+      "sha256": "982f99ead260ad7c9191ee878bdc7990b322f013de09abd70398e7f437e6daec"
+    },
+    "documentary/index.html": {
+      "bytes": 10948,
+      "sha256": "e1ca93b61ac5b95c1d7a82e450e4c530b52d66426d1868f32f7b9ed508ef7923"
+    },
+    "first-responders-hospitals-on-front-lines-of-arizonas-heroin-crisis/index.html": {
+      "bytes": 31898,
+      "sha256": "268006177aa913f429b2eb23dbd54c6ee945d0f8d50ca63f887c96c47551bca0"
+    },
+    "for-addicts-and-parents-first-steps-key-to-breaking-heroins-grip/index.html": {
+      "bytes": 20574,
+      "sha256": "c8e877f9c11afb797937f44455cf12c47ac1258e43de2bc9ff6606fb0ace041c"
+    },
+    "for-one-couple-staying-sober-is-the-key-to-their-relationship/index.html": {
+      "bytes": 25329,
+      "sha256": "9401992206811fc1d03f4c62ec5448882c0a874b848e290bf3282a9c33917a42"
+    },
+    "from-a-modest-home-in-chandler-a-major-drug-ring-grows-prospers-and-is-dismantled/index.html": {
+      "bytes": 19805,
+      "sha256": "52847b7ef4b9aec84884f5c2ed9a5e88fc43155cfe6dd000dbd71e138aae7790"
+    },
+    "glendale-how-an-addict-and-his-mother-took-the-first-steps-to-getting-help/index.html": {
+      "bytes": 23913,
+      "sha256": "ed5ad6a8616ae38ba6c495da5bae363a133077186835b3b3780c0ad0e0ddccdc"
+    },
+    "heroins-road-to-arizona-tests-law-enforcement-feeds-a-growing-demand/index.html": {
+      "bytes": 31936,
+      "sha256": "bf1a880a522e095a27303924b4541d68d05d4e7290e4aad323a501bf0bf925cd"
+    },
+    "how-heroin-affects-the-body/index.html": {
+      "bytes": 11151,
+      "sha256": "4087eca703b7470714a3ee497000c01dbfe1332e9df97114084fc8d3717162b4"
+    },
+    "images/Glendale-janece.jpg": {
+      "bytes": 107382,
+      "sha256": "4191d71594565a37c9e4319fa6a3bb0d417486484f85f399b13946306b13386e"
+    },
+    "images/Glendale_CAPTIONS.txt": {
+      "bytes": 279,
+      "sha256": "f96d1ad48c5b213df91ab8dd6a1663d6f2853e001215d40e7e711ac5399c3b7b"
+    },
+    "images/OD-Deaths-Logan_01.jpg": {
+      "bytes": 81119,
+      "sha256": "c8b6b400ef25823f2d5e075f2e2766492b3ebcb7af2d0a88d9a13306b3c1bd68"
+    },
+    "images/OD-Deaths-Logan_02.jpg": {
+      "bytes": 68856,
+      "sha256": "19cf72adb4f119d1395674920d5bba4fb34050cd3c1cde6e24d6d2a7d59eb2d4"
+    },
+    "images/OD-Deaths_CAPTIONS.txt": {
+      "bytes": 535,
+      "sha256": "8b99df1ad821d3d0537836c506bd58516445750d8d99878562e4b8e70107eabd"
+    },
+    "images/Prescott1.jpg": {
+      "bytes": 169821,
+      "sha256": "a50dadb6d9f1bd4a05c56fa7097b0a11e4a5878abc43ae7f464d40303c43a54b"
+    },
+    "images/Prescott12.jpg": {
+      "bytes": 232954,
+      "sha256": "8dc7b4d63befaf7088cb3f2bc9864a5010ca5b422d2e884c27feb6d509132078"
+    },
+    "images/Prescott15.jpg": {
+      "bytes": 76928,
+      "sha256": "01297b3011aec05aec3c7b60e29c3cce7565116547c9e88ea9bd0eea8e8116ef"
+    },
+    "images/Prescott16.jpg": {
+      "bytes": 69946,
+      "sha256": "0884e134276fe19290bc48a1d4eaced71498bb62ab08170e9ebd014ad81f8105"
+    },
+    "images/Prescott4.jpg": {
+      "bytes": 194674,
+      "sha256": "830f5a681d4b27ba4a2cf2f55d0e82a32057129faf765a296527a4a903c17351"
+    },
+    "images/Prescott_CAPTIONS.txt": {
+      "bytes": 1046,
+      "sha256": "e6019c2d4c06e35c2bfd9da64bf6daab7a91786d721a648488df4d42db6c715c"
+    },
+    "images/YUMA-CAPTIONS.txt": {
+      "bytes": 1433,
+      "sha256": "acbf210408b88f35af800486f1e82fcc1c9054a2074c1604a2d9a660b1dd0abf"
+    },
+    "images/Yuma-Lugo_01.jpg": {
+      "bytes": 82868,
+      "sha256": "c81dff9397dfdf8d53546d6e6334b72e67c16849971583fdbd249e6bfa9b57d0"
+    },
+    "images/Yuma-Lugo_03.jpg": {
+      "bytes": 87791,
+      "sha256": "f13d347addc08e2d5d4aae592e5c40980ad12be0a1ec7a5e0e51a0f8a92da6a0"
+    },
+    "images/Yuma-Ruby_01.jpg": {
+      "bytes": 112002,
+      "sha256": "4f4673e22aa105ef877ea4f666e4378fbc4a8e735350626cdb0a79393ffb7b25"
+    },
+    "images/Yuma-Ruby_02.jpg": {
+      "bytes": 66027,
+      "sha256": "ce0b282179f5e42e90f5d8ac9aa0737ce9587d9874388a83e2d30c3f54351f26"
+    },
+    "images/Yuma-drophouse_01.jpg": {
+      "bytes": 140363,
+      "sha256": "448c094dbe3e315ba39d723b0c522c9550f9420cd46ff168ed7eac08757ecb35"
+    },
+    "images/Yuma-drophouse_04.jpg": {
+      "bytes": 84051,
+      "sha256": "b2e97ab5a460e57bbdf6df0012c8e61ceecbd45bbff313ecbf7c56d2cdab24be"
+    },
+    "images/hospitals-CAPTIONS.txt": {
+      "bytes": 736,
+      "sha256": "68e1ae25c48bec408c9ce0f470ab45f176914475eb328a7907a3915ff6ad5c36"
+    },
+    "images/hospitals-RJ.jpg": {
+      "bytes": 76926,
+      "sha256": "f9fda3228b179354ec194b1befe3954803c8435eef479feff3cc68ad2cf8151c"
+    },
+    "images/hospitals-becker.jpg": {
+      "bytes": 50878,
+      "sha256": "c3776136a0ca6739404fd4b05f0b59cce104094941611581445e41c9fb45037a"
+    },
+    "images/hospitals-narcan.jpg": {
+      "bytes": 50173,
+      "sha256": "9c8de1d4cb5fccfb6ea5d658a1f103fcb9127c0b02451fbcdfeb8dc12982fb34"
+    },
+    "images/overprescribing_01.jpg": {
+      "bytes": 91601,
+      "sha256": "9c81b5bb7e590798a0b517db23c8472cba5175de060fef3c613ced3e1d47d496"
+    },
+    "images/overprescribing_02.jpg": {
+      "bytes": 45833,
+      "sha256": "f328674415088d8567c9f12ba98daf1d1fdd96206c871bd6daca5387c9d1de2e"
+    },
+    "images/overprescribing_03.jpg": {
+      "bytes": 89625,
+      "sha256": "42f105de158e6503320d75754527397d23d17adc3679298eb5b9b3797aab9af0"
+    },
+    "images/overprescribing_CAPTIONS.txt": {
+      "bytes": 777,
+      "sha256": "c885e7016029d468e264f1d9c506a0ab1497c1dceb7ac939a5859613d9e21035"
+    },
+    "images/recovery-center_02.jpg": {
+      "bytes": 78884,
+      "sha256": "002b33e0add500ae9f7cd29c00c2bf227d01f1f03fb2cc4cd7b6ec96bfa3d9ff"
+    },
+    "images/recovery-center_03.jpg": {
+      "bytes": 93436,
+      "sha256": "13b6fd37c84c1a2667fc471568e7eabb14e65e35d442cec8f23b913236b20f58"
+    },
+    "images/rehab_CAPTIONS.txt": {
+      "bytes": 321,
+      "sha256": "8236a37b49c91b7f9166a31a8849ead15f4acc02e03a4bb73b952f3cefe1e4a4"
+    },
+    "images/road-to-az-CAPTIONS.txt": {
+      "bytes": 778,
+      "sha256": "88b07cc20318817f347cbab651c180008dbea88e35c830e65a549b3a8023f9fc"
+    },
+    "images/road-to-az_02.jpg": {
+      "bytes": 136438,
+      "sha256": "501bf9ef0af11260d4e96659cdc7143049a4e6ac25c5ca841fd9508ad50b8481"
+    },
+    "images/road-to-az_03.jpg": {
+      "bytes": 80557,
+      "sha256": "7177a73bf10b622341e56a782b783a59f80543ae52d10faeea40a57efb8b1feb"
+    },
+    "images/road-to-az_04.jpg": {
+      "bytes": 150452,
+      "sha256": "99a9b574142fd767d4da0df6d315a18bb3666fa464b59dfa257076ca27f40630"
+    },
+    "images/seeking-help.jpg": {
+      "bytes": 219260,
+      "sha256": "52208eb2514a8b0aa493a458d26959dfe22495c6f46b9f7325b602b48f96990c"
+    },
+    "images/seeking-help_CAPTION.txt": {
+      "bytes": 228,
+      "sha256": "d26a9dc3a16f010bf4a0590a7d590157f7c923f5e0c034b5c727e9c4586092bd"
+    },
+    "images/teens_01.jpg": {
+      "bytes": 65665,
+      "sha256": "4e14d6e876a37587df2970daccf31a289159e622cb0249e5c8b5946ec8b8f238"
+    },
+    "images/teens_02.jpg": {
+      "bytes": 99179,
+      "sha256": "0b4a5496c09041386111643f794454d0e4f14da5c7a46fbd864d32364942801f"
+    },
+    "images/teens_04.jpg": {
+      "bytes": 264830,
+      "sha256": "d9a2985b2592f9454e26c1ce039f3a533b1b35132833134a6ceee056e85010c7"
+    },
+    "images/teens_CAPTIONS.txt": {
+      "bytes": 847,
+      "sha256": "41e9ef8ee7a51f5c7e9b200d259ba40ed92ce210fd605ff29122af2d15680d01"
+    },
+    "images/tucson_01.jpg": {
+      "bytes": 103413,
+      "sha256": "d9cacfdd4400b060a50945f55ed22e2d59236b56b7ea74962202bdced3939ea1"
+    },
+    "images/tucson_03.jpg": {
+      "bytes": 361886,
+      "sha256": "af9de89f4c4edbb320c92ffdb46558d0e0ec9431d35a526a277c4cfc3772e3ea"
+    },
+    "images/tucson_CAPTIONS.txt": {
+      "bytes": 750,
+      "sha256": "2edc81318c9b39db100718021f420b69cb174549c937839ddc5382845ef05cd8"
+    },
+    "img-hooked/150.png": {
+      "bytes": 2823,
+      "sha256": "58e34a8f5348cb63748292394ae5eee5faa396a77fffbcf19c42aa7c153451ab"
+    },
+    "img-hooked/700.png": {
+      "bytes": 6743,
+      "sha256": "a3141bba45c0730149141d28c1fcdb7cf9a832ee349c1f87e145d74ff76cfac0"
+    },
+    "img-hooked/app-store.png": {
+      "bytes": 4070,
+      "sha256": "3a20eebc9a9b75ccacda1086a53f6a7209dbb5b3aefb15c9cac93b35e3478778"
+    },
+    "img-hooked/google-play.png": {
+      "bytes": 9614,
+      "sha256": "e7c80b68ae186170def9ce02a33531dcb6b7104e1e5c402e0282441e513c8c55"
+    },
+    "in-prescott-everybodys-hometown-150-programs-offer-treatment-to-addicts/index.html": {
+      "bytes": 30057,
+      "sha256": "ccfaeb7356faceeac0681995ab44ee8b5dd83d25d6a6df5872f8b0b1fc215d55"
+    },
+    "index.html": {
+      "bytes": 26758,
+      "sha256": "3b388ef21f173bbbe78d036321e102fe3cf3d103cafe783db76fbfc4de07374e"
+    },
+    "interactives/citymapdots.html": {
+      "bytes": 1611,
+      "sha256": "b3e2eab62026e74667e65a6eb29b49e8868fd9f60401fed4dd36d03889eb8819"
+    },
+    "interactives/county.html": {
+      "bytes": 3790,
+      "sha256": "570e474fa7537e6d763906ff3bc3b33d6a4f279d21f622a51a92fa8a55e1cba9"
+    },
+    "interactives/css/MarkerCluster.Default.css": {
+      "bytes": 1287,
+      "sha256": "61258232d98d64dc2a7b1e02130d67421bc5b9bda5994eef70228ff97570c170"
+    },
+    "interactives/css/MarkerCluster.css": {
+      "bytes": 366,
+      "sha256": "16faaebf3d9fb236d29189cdc15d6f9a257ebf0ac6487f0f000ba79a53a64b2b"
+    },
+    "interactives/css/c3.css": {
+      "bytes": 2909,
+      "sha256": "84bb17855228dcb8bfd624d9c74bb834fea04c522677a2ce575417540d18728e"
+    },
+    "interactives/css/images/layers-2x.png": {
+      "bytes": 1259,
+      "sha256": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf"
+    },
+    "interactives/css/images/layers.png": {
+      "bytes": 696,
+      "sha256": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6"
+    },
+    "interactives/css/leaflet.css": {
+      "bytes": 10161,
+      "sha256": "929a5f8632dc17711dde485c1da1c79559ccf12cc34cece9c78be44a70d4531d"
+    },
+    "interactives/css/screen.css": {
+      "bytes": 418,
+      "sha256": "21d8acfa4891f9a5be2707e57b3abdabe51dfecf58bc0ef8c28397599b5587d9"
+    },
+    "interactives/data.html": {
+      "bytes": 2021,
+      "sha256": "dc04e5058e14b324fc9aa1d42fb9471352846c5397b7a842399e75b7a45b4cc2"
+    },
+    "interactives/data/az1.js": {
+      "bytes": 11168,
+      "sha256": "fecbfe956fce5d1bfa3bf75038c066cea388671a412b9358bef927c15d91a23f"
+    },
+    "interactives/data/cityDots.js": {
+      "bytes": 7231,
+      "sha256": "a093834e2ecf30293bd1dc5e0ada525dab24a041a6a09caf5277a2d7e42feae7"
+    },
+    "interactives/data/hos.js": {
+      "bytes": 17492,
+      "sha256": "bfc3a38d03f1fd1944c74f41a17fd270f5a491efaaaf8ab2fc24f5d94ba04b13"
+    },
+    "interactives/data/phoenix.js": {
+      "bytes": 291327,
+      "sha256": "8d2403023c752f3295517c3646e0d8fe5d53b4c6fcb65d35ff5ae5823df6bc31"
+    },
+    "interactives/data/pima.js": {
+      "bytes": 112430,
+      "sha256": "0a023b3b108807974f8bf70deec303e7238e0baf13ae24d85224de153a2fd88d"
+    },
+    "interactives/data/zips.js": {
+      "bytes": 354325,
+      "sha256": "a1aee996ed67a0eeddfdd0520ed1646d7c2a83f88329d34e706a5757310dc4f1"
+    },
+    "interactives/effects.html": {
+      "bytes": 7429,
+      "sha256": "b3034f7f699de99d3b3b424406c9ba95e0614818d6468d57672638e8c2ab621c"
+    },
+    "interactives/effects/edge_includes/edge.4.0.0.min.js": {
+      "bytes": 121863,
+      "sha256": "59d448078f834cd81b002a6e12409909f5715e1945d035b4833b62b9834cce2f"
+    },
+    "interactives/effects/edge_includes/edge.4.0.1.min.js": {
+      "bytes": 121903,
+      "sha256": "ac205804a181e4066f2cbd2888a3a4d148e0408bf66eb4c5c1e858eb8aa9667b"
+    },
+    "interactives/effects/edge_includes/jquery-2.0.3.min.js": {
+      "bytes": 83612,
+      "sha256": "b13cb5989e08fcb02314209d101e1102f3d299109bdc253b62aa1da21c9e38ba"
+    },
+    "interactives/effects/effectsonMind.an": {
+      "bytes": 27201,
+      "sha256": "dd212dad38eb626183da97e9c1758b0e878f48994efe8e5171bb7b887c5f8df7"
+    },
+    "interactives/effects/effectsonMind.html": {
+      "bytes": 578,
+      "sha256": "a54564c52f250cec9fd6fea9daf9e9884e4e02a5a2479108c4cb9815af1f7333"
+    },
+    "interactives/effects/effectsonMind_edge.js": {
+      "bytes": 160502,
+      "sha256": "a3e3859953da383fb4b5fd4b4aece49d042d421060eb7ac10af262912d0d8045"
+    },
+    "interactives/effects/effectsonMind_edgeActions.js": {
+      "bytes": 579,
+      "sha256": "6c3c0a9542966c0ccaa9b0af426e48adc693da58e42c83cfab48e6a024b0a3ee"
+    },
+    "interactives/effects/effectsonMind_edgePreload.js": {
+      "bytes": 13534,
+      "sha256": "e5c23cd3e8beaff7415a62713d2095197126d1e5109bc7cb44b0b5a181a6cb62"
+    },
+    "interactives/effects/images/BodyArm.png": {
+      "bytes": 76245,
+      "sha256": "c536fea3eecda89777c1139307443b23a901321fa390f892e6d6bd9169ba1d99"
+    },
+    "interactives/effects/images/Mind-01.png": {
+      "bytes": 17517,
+      "sha256": "e5879b989a86813656dd74e2c01548b7d9c66b31960faf95ac837c22087937cd"
+    },
+    "interactives/effects/images/Mind-02.png": {
+      "bytes": 15986,
+      "sha256": "17f3993b6cdb7ed34cf948184f22689cc9f0d2ad0916383f8c08bc29720bc281"
+    },
+    "interactives/effects/images/RIP-01.png": {
+      "bytes": 22217,
+      "sha256": "84c841c4bb61ef875499c9444e2e82b1baa7d110759662277c17a01fa03aeba1"
+    },
+    "interactives/effects/images/bodyNew.png": {
+      "bytes": 87413,
+      "sha256": "4379117f99e3744d16c3fbfd4f96c9de59afda7fe79ef4683eddc7603018e373"
+    },
+    "interactives/effects/images/bodyNoHead.png": {
+      "bytes": 53255,
+      "sha256": "04cdd7b71223bd9b2763487974e77acb73d3f208bb2ef526cafd2f30c3e6543d"
+    },
+    "interactives/effects/images/bodyOne.png": {
+      "bytes": 45205,
+      "sha256": "5b19c679c765702804d092b5ed563556d65c862f72385cce5e6eea989a6b6d69"
+    },
+    "interactives/effects/images/brain.png": {
+      "bytes": 17126,
+      "sha256": "88206f69527458f4a7cac8f3cc13777c0754b912b764c93e938a9463cdec7fd8"
+    },
+    "interactives/effects/images/chemicalSeq/GABA.png": {
+      "bytes": 327,
+      "sha256": "e92d17cbf4a05c8cb6e222e2502caa532fd4a0425b16577d2799cd5d3ff4523a"
+    },
+    "interactives/effects/images/chemicalSeq/dopamine.png": {
+      "bytes": 738,
+      "sha256": "7e70afcd7cca5ae9c97b59333c0a093a2c2a4f37e980514ca0a99dcc45b3d260"
+    },
+    "interactives/effects/images/chemicalSeq/gabaRec.png": {
+      "bytes": 536,
+      "sha256": "51f2d03c590f8dd892e82524b71716d312f40be8c50e8f85a2a3337380edc080"
+    },
+    "interactives/effects/images/chemicalSeq/heroin.png": {
+      "bytes": 636,
+      "sha256": "8cb765cfe5f2d461ec4ba5d805a7ff748250ecbab69f21259dc3477a1f9a3161"
+    },
+    "interactives/effects/images/chemicalSeq/morphine.png": {
+      "bytes": 324,
+      "sha256": "b250d1a4e7a95f5eab102f793f4a6eea2def39e3716abe2387f809d0f06301ed"
+    },
+    "interactives/effects/images/chemicalSeq/opiateReceptor.png": {
+      "bytes": 399,
+      "sha256": "c3620b7ebb5bcfa4558104c45e66e8765b15a15b2605d941941c8a6316752961"
+    },
+    "interactives/effects/images/chemicalSeq/opioidRecTwo.png": {
+      "bytes": 5336,
+      "sha256": "79360b9e18e0599144f8afd05952484a0662ef5195f5e3dbfcbbb2bc9a086369"
+    },
+    "interactives/effects/images/chemicalSeq/opioidRepOne.png": {
+      "bytes": 4774,
+      "sha256": "fe3d7a82a141a58ce0574b0727743f8e65447cae13f7104fa683ea3d88cc7df9"
+    },
+    "interactives/effects/images/deathdown.png": {
+      "bytes": 34209,
+      "sha256": "6948901c0651513d2f00575e9eb8155d8c24ba2bb64abd3fbd3cdd79f265a64b"
+    },
+    "interactives/effects/images/fill-04.png": {
+      "bytes": 4015,
+      "sha256": "ebff1d4c5853e65708932175014bc3bbf4ca54bc2e4b45c8e48e32cd13268dba"
+    },
+    "interactives/effects/images/fill-042.png": {
+      "bytes": 3910,
+      "sha256": "ec7c38d87be46352d9c00d0974ba2ca3c1a7e393aff8f86e5b4331e74999e482"
+    },
+    "interactives/effects/images/flowers-01.png": {
+      "bytes": 49485,
+      "sha256": "1c51bc3650e7d75cd84198a42dda00884e5b3a284d5ccc36611c995da1f8dad5"
+    },
+    "interactives/effects/images/headOne.png": {
+      "bytes": 25348,
+      "sha256": "66b1b7f5aa1d30786872339bedb3414ebc526ef0f0f4a70c0c224c7529e0c829"
+    },
+    "interactives/effects/images/headTwo.png": {
+      "bytes": 26159,
+      "sha256": "d6076da79de6eccc0a14f85222d6bd53a85faed29c57db05d09f3bcca5931e2e"
+    },
+    "interactives/effects/images/neddle.png": {
+      "bytes": 1410,
+      "sha256": "e826925ef88e12d67a1e3273b10195e112d5b7f070733bf1cef623c278d05480"
+    },
+    "interactives/effects/images/needle-02.png": {
+      "bytes": 26975,
+      "sha256": "c6a48ab69a0ce8660face2486c314614bef88bf314aa92debe7a244e0d1c7c56"
+    },
+    "interactives/effects/images/needle.png": {
+      "bytes": 13263,
+      "sha256": "663fcc621e5c5ab5ca8f31c06b2d1f2f1710ef0ed020d4b6128080fc7adf7185"
+    },
+    "interactives/effects/images/needle2.png": {
+      "bytes": 16132,
+      "sha256": "c554aa0b9c3020e0c390e155a6bf395feda4bfc0d7210fe29eca84c64eb3be86"
+    },
+    "interactives/effects/images/puncture.png": {
+      "bytes": 325,
+      "sha256": "65e8d6fb0570904d9063e5eaecc339f7c30efa31d1ce2df19f6e9b2776e502e3"
+    },
+    "interactives/effects/images/spoon-01.png": {
+      "bytes": 7129,
+      "sha256": "ff55cc695b21a9d81065d99164f6c225b657b2242e6c11bdc8fd37cc035faf7f"
+    },
+    "interactives/effects/images/veinLeft.png": {
+      "bytes": 1775,
+      "sha256": "f0de165f4e8fd27a0e1371ba93bd39e39334fbcae68237b5437def13f2fef71b"
+    },
+    "interactives/effects/images/veinUp.png": {
+      "bytes": 1961,
+      "sha256": "f560228c1ce540d6d0ca64315a582ee71f5e5e74b037452133bf9d7d0612ce38"
+    },
+    "interactives/hosmap.html": {
+      "bytes": 1601,
+      "sha256": "325c56f135cbdf729b2656334d727d33fa1b882338c2bba72043a60c84338eaf"
+    },
+    "interactives/js/c3.min.js": {
+      "bytes": 131714,
+      "sha256": "f6087a95bd1008e752e05de20413c61c785c6d0071fcfb3d0057d639a3c89c0a"
+    },
+    "interactives/js/d3.min.js": {
+      "bytes": 146528,
+      "sha256": "f717263df71b14fb151931ad0a9695738fb98124a76bb723e1b9cfb9152b7a3e"
+    },
+    "interactives/js/jquery-ui.min.js": {
+      "bytes": 84574,
+      "sha256": "66e1c6167f0f3dd36b0b3f745e8ee99670c3ef175e965853190f3d87616a748f"
+    },
+    "interactives/js/jquery.min.js": {
+      "bytes": 95786,
+      "sha256": "540bc6dec1dd4b92ea4d3fb903f69eabf6d919afd48f4e312b163c28cff0f441"
+    },
+    "interactives/js/leaflet.js": {
+      "bytes": 125410,
+      "sha256": "fa898196b800b919d479948413ebd80442c6e1ddb61ed4a9af31cf02e33d7746"
+    },
+    "interactives/js/leaflet.markercluster-src.js": {
+      "bytes": 60524,
+      "sha256": "0f8a765eff9210f52ba27b5cc08abf16e5e5ba0393e4c7d03ddd4a7aadcac1c7"
+    },
+    "interactives/phoenix.html": {
+      "bytes": 3333,
+      "sha256": "aeffdb6e53d07a7420e49fcba0625180df826e154493f06268542f8a80d43e25"
+    },
+    "interactives/pima.html": {
+      "bytes": 3331,
+      "sha256": "725d3581694f02ea75bb2834361bc03227e7aa3cc4dd5fe43b3ebdbb044fceeb"
+    },
+    "interactives/zipmap.html": {
+      "bytes": 3327,
+      "sha256": "e4f3522e606ebf25ae7de0ef565abe81c5633c872860ee08b125c76550e28d55"
+    },
+    "major-figures-throughout-heroin-history/index.html": {
+      "bytes": 9224,
+      "sha256": "17a31b9790b97e13d5e4fe7eb27f18338b1aee312ffd4abd1d349cdb8f5deb1b"
+    },
+    "overdose-deaths-on-the-rise-across-arizona-and-the-nation/index.html": {
+      "bytes": 20183,
+      "sha256": "6925dd3df92b3bb7abbd4420f5ae2fdbb77378a4f87148e743d6644d62076c2f"
+    },
+    "phototron-hooked/Prescott8/Prescott8-1200.jpg": {
+      "bytes": 337433,
+      "sha256": "c8b1dfb7def82a162bd9583d4f81c93e65af3d66c7167aac021925d5f649430b"
+    },
+    "phototron-hooked/Prescott8/Prescott8-1600.jpg": {
+      "bytes": 518241,
+      "sha256": "8924abdd56c510f267c0076c421771650c8ccbedbf3a84a12364a9637dab025a"
+    },
+    "phototron-hooked/Prescott8/Prescott8-2560.jpg": {
+      "bytes": 1075994,
+      "sha256": "bbbea8edbb888d0d5626b985a0390add5b64c7aabfeb9343407d84527662fda3"
+    },
+    "phototron-hooked/Prescott8/Prescott8-768.jpg": {
+      "bytes": 164228,
+      "sha256": "35f04d06f806c3c37185986bd1a0685cfd35c9a8cc2766590642f96f3aa6e7ed"
+    },
+    "phototron-hooked/Yuma-drophouse_02/Yuma-drophouse_02-1200.jpg": {
+      "bytes": 274306,
+      "sha256": "0a96b8c1a64544c511dc4337fe3fd08aecea6d4c36b3667c3463ce8ca52d0de6"
+    },
+    "phototron-hooked/Yuma-drophouse_02/Yuma-drophouse_02-1600.jpg": {
+      "bytes": 458630,
+      "sha256": "c74e3ca771e0a8736a459cc64204e42c874e919e2e4c0e2d18dc4d993b9e3401"
+    },
+    "phototron-hooked/Yuma-drophouse_02/Yuma-drophouse_02-2560.jpg": {
+      "bytes": 1073749,
+      "sha256": "3903a6cf0db93aa947ae48120318ace671e93ba2051687306bbd6cd212e9b734"
+    },
+    "phototron-hooked/Yuma-drophouse_02/Yuma-drophouse_02-768.jpg": {
+      "bytes": 114562,
+      "sha256": "c4be5eaef5ed85d1178477425fb96dbc9a95e74b55e53904aa28f02c81cb19f6"
+    },
+    "phototron-hooked/about-hero/about-hero-1200.jpg": {
+      "bytes": 217207,
+      "sha256": "90d2992ae3b1f0b4af9c118c240cfb20105727c9c31c231da370d3d0e47a56fd"
+    },
+    "phototron-hooked/about-hero/about-hero-1600.jpg": {
+      "bytes": 344513,
+      "sha256": "a531886f865f59669d31ee99c0515770d2ff93845f08cac9d4755ed968e0912f"
+    },
+    "phototron-hooked/about-hero/about-hero-2560.jpg": {
+      "bytes": 883562,
+      "sha256": "f30c98f726e8521f0731ec4b292a35b41e8db7b04faaba601c4c6480b626b5c3"
+    },
+    "phototron-hooked/about-hero/about-hero-768.jpg": {
+      "bytes": 73519,
+      "sha256": "7f69730cf91b156d97d9f06bd83d297dbf5d6f598cc8b8234cf6d647837dcdc8"
+    },
+    "phototron-hooked/arizonas-drug-dilemma-1200.jpg": {
+      "bytes": 217963,
+      "sha256": "65c689fe81bc370da61114243bef80f3ad4c133571aefacbaac0cd66a3ce1ee2"
+    },
+    "phototron-hooked/arizonas-drug-dilemma-1600.jpg": {
+      "bytes": 357669,
+      "sha256": "2642cf8e25f7ec0d30e5c6b31c3f24849fc20a56e0d7e1b2afc9cd944bc0f1ad"
+    },
+    "phototron-hooked/arizonas-drug-dilemma-2560.jpg": {
+      "bytes": 838186,
+      "sha256": "cc8d3f1f75ba125c9486f9212175d1813c03ce4ca4269d37238bc6f945e3ecb2"
+    },
+    "phototron-hooked/arizonas-drug-dilemma-768.jpg": {
+      "bytes": 103803,
+      "sha256": "dd0dce00879c562717170a555b27b4c1e4003a3eee254b8c11df2bd77098dd27"
+    },
+    "phototron-hooked/banner-road-to-az/banner-road-to-az-1200.jpg": {
+      "bytes": 138999,
+      "sha256": "cf23b1f2806626229a3d0c37031c20fbd1be0b0dad6428593de3d243c80acd10"
+    },
+    "phototron-hooked/banner-road-to-az/banner-road-to-az-1600.jpg": {
+      "bytes": 231711,
+      "sha256": "c34268b9a9ff04f68211bc1cee752ab533cd54f7bf3d496476b9e4792f9eec63"
+    },
+    "phototron-hooked/banner-road-to-az/banner-road-to-az-2560.jpg": {
+      "bytes": 547390,
+      "sha256": "5476c22abbc05aff7918024b594d9f7d21363f4a6147cd45c7ea307383535401"
+    },
+    "phototron-hooked/banner-road-to-az/banner-road-to-az-768.jpg": {
+      "bytes": 67157,
+      "sha256": "11778fde245c415250f93dcfbdf3e1fd94914c17ad69a0f73dadea0cb9fb4be7"
+    },
+    "phototron-hooked/communities-in-crisis-1200.jpg": {
+      "bytes": 433032,
+      "sha256": "fc716ad30c5b7be1c2d908942c1ae3dcac5f7a3c85129fd5ed56d44409e62a82"
+    },
+    "phototron-hooked/communities-in-crisis-1600.jpg": {
+      "bytes": 751664,
+      "sha256": "b661e8bd559607e99b9d27c1512485b299432cf040a34f00e90b57329f734db0"
+    },
+    "phototron-hooked/communities-in-crisis-2560.jpg": {
+      "bytes": 1504205,
+      "sha256": "0ff591ffffc25c7cd76a364630d105e79c1a196ba24b5aee7948d92feed8bf82"
+    },
+    "phototron-hooked/communities-in-crisis-768.jpg": {
+      "bytes": 184621,
+      "sha256": "21203bda2737452b310b8de9990b390cf11588831f1e42e7cfe09bb5b677be03"
+    },
+    "phototron-hooked/heroins-deadly-toll-1200.jpg": {
+      "bytes": 241536,
+      "sha256": "c62f88f4e3975f5f8c7bd9fef8372d9950c0f21164d5f0ecbfec41821ae6b07b"
+    },
+    "phototron-hooked/heroins-deadly-toll-1600.jpg": {
+      "bytes": 388426,
+      "sha256": "9027001a95d3ff155d03fff60ee525b4f91aef6f5bb95e1bf0e7ba91aa471322"
+    },
+    "phototron-hooked/heroins-deadly-toll-2560.jpg": {
+      "bytes": 882179,
+      "sha256": "25f68f572839a00bd652320a3a0aebdddb754d9d7fc038763b88132b391df467"
+    },
+    "phototron-hooked/heroins-deadly-toll-768.jpg": {
+      "bytes": 109694,
+      "sha256": "f10516591c1d10d32c75893c5972b6496b1266a2c54471fb241ab3866e4fa75a"
+    },
+    "phototron-hooked/history-hero-1200.jpg": {
+      "bytes": 323136,
+      "sha256": "e23002306b875f653624301164a0eb0dc043822f9578c5a3b0cc35b18ecdc180"
+    },
+    "phototron-hooked/history-hero-1600.jpg": {
+      "bytes": 534622,
+      "sha256": "99ee1bfb02e25c4523467a6896d10ccc641c9d0a4054b1bee7206a426737d08b"
+    },
+    "phototron-hooked/history-hero-2560.jpg": {
+      "bytes": 1325167,
+      "sha256": "bdc3da39109170ca4367ad3eb3c26b9af0afc7013e8eeb6d5db711e5ad84ccf6"
+    },
+    "phototron-hooked/history-hero-768.jpg": {
+      "bytes": 132014,
+      "sha256": "27d5c79466669bc2e9e61c68aeadc34b8d15e7b2ff1f7b413b78a79eed44b08f"
+    },
+    "phototron-hooked/hospitals-banner/hospitals-banner-1200.jpg": {
+      "bytes": 218155,
+      "sha256": "c500cdb23e0132027b2a9113b2eaa517fdd41e3f4f1ac92432aab362c886e916"
+    },
+    "phototron-hooked/hospitals-banner/hospitals-banner-1600.jpg": {
+      "bytes": 348732,
+      "sha256": "1769ca486acae670f6fbdf12f59a0246ffa58cdc5a89195485222f04c83cdf53"
+    },
+    "phototron-hooked/hospitals-banner/hospitals-banner-2560.jpg": {
+      "bytes": 784955,
+      "sha256": "15d6c92ecbaaa15ae202bf3dff7f25530adee97d72f36bc9eb97e34190ab183e"
+    },
+    "phototron-hooked/hospitals-banner/hospitals-banner-768.jpg": {
+      "bytes": 103044,
+      "sha256": "38150a4fc4af58d802e1864a98ed78d900de8851177d52818b245c47cca76cf5"
+    },
+    "phototron-hooked/placeholder-1200.jpg": {
+      "bytes": 221805,
+      "sha256": "b40978982509f217e2f5b6e966908a1bcebb97ff668b21755a2174e06d639683"
+    },
+    "phototron-hooked/placeholder-1600.jpg": {
+      "bytes": 342909,
+      "sha256": "ae9543047b9eb3e0ff97162bea4f4f8b4aed572f9219b011bfbfd66785319a35"
+    },
+    "phototron-hooked/placeholder-2560.jpg": {
+      "bytes": 722222,
+      "sha256": "77e25d6b4b0f26762092df69e23808ecd482acae18c1cde3705c75f5d6558ff3"
+    },
+    "phototron-hooked/placeholder-768.jpg": {
+      "bytes": 104685,
+      "sha256": "ed401cb9c2d889bd859cd705632c5204c115cb1a8d7592ac38e3673abfec02e1"
+    },
+    "phototron-hooked/rehab-banner/rehab-banner-1200.jpg": {
+      "bytes": 225885,
+      "sha256": "1751cce522cd50cf964ee136eb56c727f70054f6a9bcace5f7c6b7cd84a663a1"
+    },
+    "phototron-hooked/rehab-banner/rehab-banner-1600.jpg": {
+      "bytes": 358270,
+      "sha256": "2cafe9b921ac6ead31c4ac36833a06884048106703a8b65eb12baf25e30cd273"
+    },
+    "phototron-hooked/rehab-banner/rehab-banner-2560.jpg": {
+      "bytes": 803325,
+      "sha256": "ecfbd7bc5740c42e0ec61e83498563bbbe0f7fcdeb3124bbbd43f09893094bc7"
+    },
+    "phototron-hooked/rehab-banner/rehab-banner-768.jpg": {
+      "bytes": 108547,
+      "sha256": "f15edceb8c9311bbccf44d8fd5e0bb598ef919064e3f372991c1d832b9efdb97"
+    },
+    "phototron-hooked/road-to-az_05/road-to-az_05-1200.jpg": {
+      "bytes": 284478,
+      "sha256": "e5065053b31d0aaf51cc9e4f6ae01d81ece087151299a5f367302c9b1cfdb49f"
+    },
+    "phototron-hooked/road-to-az_05/road-to-az_05-1600.jpg": {
+      "bytes": 441137,
+      "sha256": "950cc3e49533cbbd0e1e45c32e2bc2196e2f8104c6ecda8775864a02f275ebc6"
+    },
+    "phototron-hooked/road-to-az_05/road-to-az_05-2560.jpg": {
+      "bytes": 949483,
+      "sha256": "8687b942e0b1564859363a4ade3509f08298566415ab1114c29702a768acf382"
+    },
+    "phototron-hooked/road-to-az_05/road-to-az_05-768.jpg": {
+      "bytes": 131785,
+      "sha256": "2de6996797e9ca300214f0cff8c8b5341d9b7e79c23f601a984f9df69a3c3ac2"
+    },
+    "phototron-hooked/tucson_02/tucson_02-1200.jpg": {
+      "bytes": 399252,
+      "sha256": "c09e394a6c4a1aa7466d515de9ff4c366ee4da5e429643dc344b2dc4bdbde9af"
+    },
+    "phototron-hooked/tucson_02/tucson_02-1600.jpg": {
+      "bytes": 626709,
+      "sha256": "01fdbad80d7e43335736b1838660b394ddb5c935bbc8f2c5d3ecd5d976f5bfb5"
+    },
+    "phototron-hooked/tucson_02/tucson_02-2560.jpg": {
+      "bytes": 1300118,
+      "sha256": "e6066c2ade7edf79d50b85bb15286c7ede3e1f5ed3659f826fec003a41be1bf8"
+    },
+    "phototron-hooked/tucson_02/tucson_02-768.jpg": {
+      "bytes": 175293,
+      "sha256": "99ea306a7b0d2cb348d22757e54c7fd4993d820eeae530240d2a55c0e5d06ce0"
+    },
+    "phototron-hooked/tucson_04/tucson_04-1200.jpg": {
+      "bytes": 309488,
+      "sha256": "82f96f281ca938859292ef10538735e2321c24093077b77712369dbca5198c82"
+    },
+    "phototron-hooked/tucson_04/tucson_04-1600.jpg": {
+      "bytes": 538968,
+      "sha256": "3239ff499874e7b0cb7b4221f6657793fa3890faed156a72adfe3374a6c451be"
+    },
+    "phototron-hooked/tucson_04/tucson_04-2560.jpg": {
+      "bytes": 1222066,
+      "sha256": "8ea9365ff545387f9080b25639ff9a516df48a671fd942d9b9b2f28f7b1012ba"
+    },
+    "phototron-hooked/tucson_04/tucson_04-768.jpg": {
+      "bytes": 132252,
+      "sha256": "e6b281d18655a9d0f9e772c384ffadc721b7aa07978a95367c1e9f10e777469a"
+    },
+    "pin/index.html": {
+      "bytes": 8838,
+      "sha256": "3b3bb2517acac46c430a139e4e643a43f9939eaeda7e5547976a1fb3b00719b8"
+    },
+    "proximity-to-border-helps-make-tucson-an-epicenter-of-arizonas-heroin-epidemic/index.html": {
+      "bytes": 26073,
+      "sha256": "90bc4c12da652e3101e5aef04f780bb062f64f71f018e289b61ab4f2a534f036"
+    },
+    "relentless-cycle-of-addiction-often-begins-in-teenage-years/index.html": {
+      "bytes": 23194,
+      "sha256": "bc747082848d146e2dba216016e545cb90ae31993642b60bae866c7c020c8a8a"
+    },
+    "resources-for-addicts-and-families/index.html": {
+      "bytes": 13857,
+      "sha256": "3a7b026001b48b26075ee4585eac4fd30b8bbdc62a32c6391ac4117f6308dbbc"
+    },
+    "share-your-thoughts/index.html": {
+      "bytes": 8992,
+      "sha256": "b8bbe6836b081972ca591551d8e7d958415154c2f188f338894a8f2507c49a17"
+    },
+    "slideshows/-style.css": {
+      "bytes": 184,
+      "sha256": "9727ba8ddac26fa512753d12d56cddd95b02640da32d3315724096120d8d4304"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_01-b.jpg": {
+      "bytes": 579581,
+      "sha256": "7ae4d7b4acc8bf5acaaa737d14e7e4ea0b14bbd69bbf5e32c541c8cf1e3af170"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_01-i.jpg": {
+      "bytes": 131831,
+      "sha256": "a02bd15e15647f0453257dd40e7bea56e038be30276edb3d73629eadd6de9c77"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_01-t.jpg": {
+      "bytes": 9138,
+      "sha256": "926de93ceab41c5ec36e26dbf0dc5c9e29a04402e4d3a36ef9b57fb7f1634687"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_02-b.jpg": {
+      "bytes": 614151,
+      "sha256": "0a138464a90e7ccac682ba9cae14f15be56af8641d77f1007abff5da6e71a711"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_02-i.jpg": {
+      "bytes": 109557,
+      "sha256": "b81f742011edb83654f92618c5812c90e34946c4496af9a9a4d66427a7afc29c"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_02-t.jpg": {
+      "bytes": 9085,
+      "sha256": "c9daf6393d89eaab760363a6ea6f4a4d8de55299e37bfcafc96b49e0786a59cb"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_03-b.jpg": {
+      "bytes": 581082,
+      "sha256": "1e9efe0376cd858e6612d12926472bd7239dbd65c29e746cc4d9ec6be8970516"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_03-i.jpg": {
+      "bytes": 128113,
+      "sha256": "1adb90cfd51d0a8b7b2e7cac0b0ab0e37600b6946eaf0d2745181ec25b8f012e"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_03-t.jpg": {
+      "bytes": 8990,
+      "sha256": "f4319863987109eff08c2f206c3fbae0088eec0089e496976bdb4cd37d78413c"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_04-b.jpg": {
+      "bytes": 684455,
+      "sha256": "cbfe226b85106ce9f05324f962e6f5902f87d3762881db251e6d40da5b2ca32f"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_04-i.jpg": {
+      "bytes": 152734,
+      "sha256": "38a839bb437a6ed8e364dc14529388bb2895a5452e90ed91ea8d73be8515fc74"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_04-t.jpg": {
+      "bytes": 9436,
+      "sha256": "74715b4a2655b2e8f7f12deb86f7f46aa4af1761afda5bf6848110c143f6ac5a"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_05-b.jpg": {
+      "bytes": 588704,
+      "sha256": "c84fb752f6c9cfb91894889c57c30971de47f8a7dfcd51f049855f9d521e69e0"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_05-i.jpg": {
+      "bytes": 110010,
+      "sha256": "0c0ac8ce11238799002a2cb8a0979af10531a08b560c38f77e4b4fc80fa443c0"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_05-t.jpg": {
+      "bytes": 8680,
+      "sha256": "90a934990a9c1f196b579eaad441cb4486d17a536bd9594ec92fbe5637cc8523"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_06-b.jpg": {
+      "bytes": 625997,
+      "sha256": "a9fd57a19f8e8d6ed99ae242eaf0c58003e66f08b14b3ee23f3bf046766f6b42"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_06-i.jpg": {
+      "bytes": 123613,
+      "sha256": "2358f61fba896d70357dd9c475c80977789b0516b058544e1506910d8c019e6a"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_06-t.jpg": {
+      "bytes": 8979,
+      "sha256": "9236821086ec41e2225586ee6adb87fc2158933eb6d1a59adcb5dc954a740bce"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_07-b.jpg": {
+      "bytes": 651779,
+      "sha256": "f316f58a298f308f81bf0f1dcd0d935f8ae34860d1deee4a896a34c818bb3650"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_07-i.jpg": {
+      "bytes": 171923,
+      "sha256": "16629d016bdfa7bb0eaeb2524baa09786c1ad5d088378d97519df3190c2a58bb"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_07-t.jpg": {
+      "bytes": 9391,
+      "sha256": "5a0b6303f20d753a111d7ea283f7445fd106805258319583b7a72f7f575f06cb"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_08-b.jpg": {
+      "bytes": 494819,
+      "sha256": "904a9daec77f66224bf027281429ce99203627c93cd3b23153542f2d41beace2"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_08-i.jpg": {
+      "bytes": 146273,
+      "sha256": "47cf2dd1a4c3bf6ab861e1108ae715198ba4f11b7bafd8d301f0e07b873d75c0"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_08-t.jpg": {
+      "bytes": 9191,
+      "sha256": "c5dd15474a826c8b96aeee4d2afafe44bac6fea45f850ef7e2b074be1367eb5d"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_09-b.jpg": {
+      "bytes": 375215,
+      "sha256": "d5670992d0b5a57872e2fc591d930d2fa59eaeb77b15e387efe3f66deb191bb2"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_09-i.jpg": {
+      "bytes": 88246,
+      "sha256": "485d151da23959d8a8473f9e35dfe894086c05d7982216bba633abc46b60354e"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_09-t.jpg": {
+      "bytes": 9290,
+      "sha256": "759428181b6044bcb9e56d102fc2be726af60da015e77b2f18b3205028e0650e"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_10-b.jpg": {
+      "bytes": 598673,
+      "sha256": "478adf534cc0648523c95751b26e4b802f5f23cdb362cd9804f7ff75f4ae1e94"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_10-i.jpg": {
+      "bytes": 127989,
+      "sha256": "69caa40bbecbb1b1880c2c4ded5996878437f9f75f24b14058d8673844139206"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_10-t.jpg": {
+      "bytes": 8889,
+      "sha256": "57167e8ac6ab92a13d79b5797238f24f3bb916901e8efbfa380cbf4dcd6bc49b"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_11-b.jpg": {
+      "bytes": 547921,
+      "sha256": "7d7f049a878842ee43c2f2a424b159ee94965164718f727331aee4e8e1dcd8fd"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_11-i.jpg": {
+      "bytes": 148433,
+      "sha256": "18dd50e3e6cb50767eba32d7893bb5b186e881bbb2ee0e8e2f405a8496f8f198"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_11-t.jpg": {
+      "bytes": 9802,
+      "sha256": "516544a3070195553c9a65ce5e10ab3f194079820682e6bc407efc951d128d1f"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_12-b.jpg": {
+      "bytes": 630310,
+      "sha256": "9f09d9183f35c10591722b2277c94f8d90890930c558e7af9db2f248cd318a72"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_12-i.jpg": {
+      "bytes": 135675,
+      "sha256": "d6155cbc3e29546db8ca75379ed9c0e49064003c0a3745a91b2138070343c328"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_12-t.jpg": {
+      "bytes": 9117,
+      "sha256": "a8afe3a77d5e6adcf934b227a7964e922f8981904b099d590c0b2e7a12a00d03"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_13-b.jpg": {
+      "bytes": 616528,
+      "sha256": "4edef4a1ecacc51f5e0c5057a5bf135be3d63d8d5167af2d4a6acbc15f06d280"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_13-i.jpg": {
+      "bytes": 116992,
+      "sha256": "c7864ace1d3f7072e9654b4436a42ae95b4602a40b6f0733d6f98beec4349fa5"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_13-t.jpg": {
+      "bytes": 8744,
+      "sha256": "0fef9305c58f01fddb7e40066151fb4ce1b7be91bffa6e4c9f07b99398c4dec0"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_14-b.jpg": {
+      "bytes": 438497,
+      "sha256": "eb16d814fd0a45b1690d18980c289a576c830fae23ceaa5062da257583e498aa"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_14-i.jpg": {
+      "bytes": 94651,
+      "sha256": "099d85be1b89b5c82e4acf4334e0bc1defd2c46a09c05bfff21ea24f11c5262a"
+    },
+    "slideshows/heroin-love/Heroin-Love-Affair_14-t.jpg": {
+      "bytes": 8865,
+      "sha256": "da6a022138f61515ed746a8f6bfe16f807f7af4531b51cfa8bc19b2de44d0095"
+    },
+    "slideshows/heroin-love/heroin-love.json": {
+      "bytes": 7218,
+      "sha256": "502f1c863244491d1b36739ea195986fca6554b16e4eb9ffdf2b747086e67f6a"
+    },
+    "slideshows/heroin-love/index.html": {
+      "bytes": 1836,
+      "sha256": "c350fd80cd8be89d8085f7e57636882d340be6f444c83b007790c454758d225e"
+    },
+    "slideshows/heroin-love/slideshow_LoveAffair.csv": {
+      "bytes": 5506,
+      "sha256": "2146a82a6fc7fde78754f88d6b799d5b119480e26c20c5501c5ddef73cf77c0c"
+    },
+    "slideshows/rehab/index.html": {
+      "bytes": 1824,
+      "sha256": "a4716ad1a32c85974aee25459b139baab63747ac0b0f9e8809a031fa5e897d83"
+    },
+    "slideshows/rehab/rehab.json": {
+      "bytes": 2478,
+      "sha256": "2bb0a93ed9ed87b0b082751ab2d088ea8f81ad0d09f33f4f445c47755c513f7c"
+    },
+    "slideshows/rehab/rehab_01-b.jpg": {
+      "bytes": 510491,
+      "sha256": "c5a6ac0ed9f3bd7568a01f7aa371482d4dfef4e2e3883451921cd2b8055a3485"
+    },
+    "slideshows/rehab/rehab_01-i.jpg": {
+      "bytes": 129073,
+      "sha256": "fafb682031ef46d0bdb197a87d944eaaa5201df6acda898ac3503ffaa2ec3d2e"
+    },
+    "slideshows/rehab/rehab_01-t.jpg": {
+      "bytes": 7696,
+      "sha256": "4736f9ad480f396de9f7b10be1e640d1be162a81c809ccb3c9206b5764a6f2fc"
+    },
+    "slideshows/rehab/rehab_02-b.jpg": {
+      "bytes": 432893,
+      "sha256": "623ae75343937cdfc56c5be42608bab977d2532d63d368d6c2a49f2f8f1090ba"
+    },
+    "slideshows/rehab/rehab_02-i.jpg": {
+      "bytes": 130509,
+      "sha256": "6c3a431fbb4ae89ba73184c90135d6b3b7f6493e7915eddb3a72552d9f71c465"
+    },
+    "slideshows/rehab/rehab_02-t.jpg": {
+      "bytes": 8255,
+      "sha256": "59f87c28f19556367750388d5a359c1e01d78f23ea6c858438edc3a1d5beff74"
+    },
+    "slideshows/rehab/rehab_03-b.jpg": {
+      "bytes": 589071,
+      "sha256": "d7f848b6e2b27a50ca2125d880ef3a9c9118ae0ab4e0be31ca6cb807afc4e097"
+    },
+    "slideshows/rehab/rehab_03-i.jpg": {
+      "bytes": 162436,
+      "sha256": "30e822db7fc229871e1ac0ca38b8a11a66b4732f55bd0d58d9d0b44e5925f36f"
+    },
+    "slideshows/rehab/rehab_03-t.jpg": {
+      "bytes": 8470,
+      "sha256": "45e2a1f75c293cdab3296dca4492e9fb6aa5900d706f3be3767e10571a13f486"
+    },
+    "slideshows/rehab/rehab_04-b.jpg": {
+      "bytes": 401540,
+      "sha256": "1ba32fddbd3134ca21d256f8e71f2941d842d8ee3f94dd840667c8b1d3b65209"
+    },
+    "slideshows/rehab/rehab_04-i.jpg": {
+      "bytes": 121166,
+      "sha256": "831e92ca660ae490f419561bc94a179e215e3fd0c9f900e4f21226ccbd1ad7eb"
+    },
+    "slideshows/rehab/rehab_04-t.jpg": {
+      "bytes": 8130,
+      "sha256": "bf7fe4ce50443d4c59496e13e2ebf71025ec8a8bfb9fa33af889432e9cf19c84"
+    },
+    "slideshows/rehab/rehab_05-b.jpg": {
+      "bytes": 363920,
+      "sha256": "b6090842a2ed817e25effdc23454518c3a17caa75b8987bae9c43d6a59e272de"
+    },
+    "slideshows/rehab/rehab_05-i.jpg": {
+      "bytes": 111565,
+      "sha256": "fe3e5834b63dc015a281d32b55257133c15397e6e650a61d48826bed285a9e2b"
+    },
+    "slideshows/rehab/rehab_05-t.jpg": {
+      "bytes": 7721,
+      "sha256": "40001a2b9b7c678ab754a9b01148fb5b83ba6d634cfc79bfcf383707b11cb8c9"
+    },
+    "slideshows/rehab/rehab_06-b.jpg": {
+      "bytes": 379785,
+      "sha256": "03fea161ef46376372efd447b2f8eb962f917458963f058bc208b4942f8d65a4"
+    },
+    "slideshows/rehab/rehab_06-i.jpg": {
+      "bytes": 117251,
+      "sha256": "965f6260bfd046dc316ccc62cb875955864c7b9ddd534c36affb6fb5574a1af5"
+    },
+    "slideshows/rehab/rehab_06-t.jpg": {
+      "bytes": 8346,
+      "sha256": "dee94b2823a810ede1f6a8167763bb467d7e883efd958edd4468d80a9eb640e7"
+    },
+    "slideshows/rehab/rehab_07-b.jpg": {
+      "bytes": 454389,
+      "sha256": "b187b1388fbcaf2261be27c8dd41e84694337465f9402b31d470a22431d9b736"
+    },
+    "slideshows/rehab/rehab_07-i.jpg": {
+      "bytes": 135560,
+      "sha256": "1bb5ec91d42d3b0ece738c55864aefaa848b8e38811fd9ee51efdf07e0052eb3"
+    },
+    "slideshows/rehab/rehab_07-t.jpg": {
+      "bytes": 8268,
+      "sha256": "a67c70d59def3b193c5cd03cb5eb51aa0fc3406477535ff755c67b64f8678672"
+    },
+    "slideshows/rehab/slideshow_rehab.csv": {
+      "bytes": 1826,
+      "sha256": "62147fdb95fb58d65f51f34d888deff90394f8594a51d329f54368f94f3a1b2b"
+    },
+    "the-conversation-when-how-to-talk-with-kids-about-heroin-other-drugs/index.html": {
+      "bytes": 19176,
+      "sha256": "4d55cdf9e2bbf8ad9f28d0bfee9f7ff5d9c30b76111ec4d8293eeff1c410b680"
+    },
+    "trend-of-over-prescribing-painkillers-a-path-to-heroin-addiction/index.html": {
+      "bytes": 28038,
+      "sha256": "769fd2ae9c181a940522ffb6845a07b67b4e9e8f6908bfd0ee13a675fd8a2bb2"
+    },
+    "twelve/bar.png": {
+      "bytes": 9885,
+      "sha256": "aa19c9790d70d0f5424b47f013540c455a0dbdaabf3a44c7cbfb314067057dba"
+    },
+    "twelve/bg-black.png": {
+      "bytes": 121,
+      "sha256": "9eebe49d527c29b2d6e647471963edc78b76eb68713ee48686b383842f5aeae3"
+    },
+    "twelve/bg.png": {
+      "bytes": 121,
+      "sha256": "1976a0d50c131a02681d6ebed866101d31932458e259ae28ce58149a16ed602c"
+    },
+    "twelve/fullscreen-neg.png": {
+      "bytes": 1082,
+      "sha256": "3bce3fad3b25f44f8a56f29b360d83f1debc4b6535ac5aaea9cabbbf4ac17374"
+    },
+    "twelve/fullscreen.png": {
+      "bytes": 267,
+      "sha256": "fa54f4096043313f2cf0594fb87dba3d174063b53e327fcf71d9ddb9be5fd28e"
+    },
+    "twelve/galleria.twelve.css": {
+      "bytes": 8311,
+      "sha256": "630c672cf3ca6e0afd77bbc31a979c298a1ddb3c42357c8ea88cc7331916257f"
+    },
+    "twelve/galleria.twelve.min.js": {
+      "bytes": 4018,
+      "sha256": "3bc8d7533ddbee3d40f7e0eb74dce04a90ab5d84d374b2c2f49c8bf8552b157c"
+    },
+    "twelve/loader.gif": {
+      "bytes": 2545,
+      "sha256": "5d40c6b1b701dea50e025059f2c4631b608e78d43aa5d07f61d47ce4c19916cd"
+    },
+    "twelve/loader_pos.gif": {
+      "bytes": 2545,
+      "sha256": "3ba1d67c8ec998c1fe3a7ae7fb48a355153df733ca8ea4a4baf9939e269c146a"
+    },
+    "twelve/nav-neg.png": {
+      "bytes": 3987,
+      "sha256": "7ca762836ef5b7e9a83c66171ab1e6e6a3053ee5beaf50c61aa8f0971b0df99b"
+    },
+    "twelve/nav.png": {
+      "bytes": 4062,
+      "sha256": "29488e14d3fc35b04732a05e3279770f09f852205ca93594c16fa5ba70419ccd"
+    },
+    "twelve/playpause-neg.png": {
+      "bytes": 987,
+      "sha256": "f261ac7716f8bf855356284396e0a45432b113bb9525aa240e21d88304c37717"
+    },
+    "twelve/playpause.png": {
+      "bytes": 189,
+      "sha256": "b281edd91ee6d93a077d871f12de7f86c978114bbc64c7187752764489f6c3b3"
+    },
+    "twelve/popout-neg.png": {
+      "bytes": 967,
+      "sha256": "7e8809ca2c71024ebdee52ed56a37d0335191e5eae05d1f2f232fb53f47f4f43"
+    },
+    "twelve/popout.png": {
+      "bytes": 979,
+      "sha256": "7ffa7ff314f55b003458584b5cd17c0db825b9bdfbbe48c0bb74d048c364a08e"
+    },
+    "twelve/separator-neg.png": {
+      "bytes": 934,
+      "sha256": "b207196c42537494aaf09d9b58994aee475a93a47a67965ecbaa43baf92184a9"
+    },
+    "twelve/separator.png": {
+      "bytes": 120,
+      "sha256": "58438b2ec138df4e45c9592ca3648ed1ac3c6811a9aa100492fc0186f2dbff39"
+    },
+    "twelve/thumbs-neg.png": {
+      "bytes": 940,
+      "sha256": "47512eb142724fe7cf260e8211f5d89c2b600f0519616b7e4dfb1fa7fd6ea17d"
+    },
+    "twelve/thumbs.png": {
+      "bytes": 132,
+      "sha256": "484dedd28c18d09cdaa71dd00267d3d95f15030a0b38c40e2c19d91f3c64c5b7"
+    },
+    "young-white-suburban-plus-risk-taking-behavior-makes-getting-addicts-into-treatment-difficult/index.html": {
+      "bytes": 27656,
+      "sha256": "01754cea3cf3c093e44ca1b8c65113cd22d0b404e779c381c454c930eb7405f0"
+    },
+    "your-body-on-heroin-drug-causes-feelings-of-pleasure-strong-enough-to-be-described-as-euphoric-by-users/index.html": {
+      "bytes": 21824,
+      "sha256": "bd5dfb17e273944ba208bc29819cef280f8e256fa87fb171ee0450ad5fe94c31"
+    },
+    "yumas-heroin-problem-is-persistent-and-visible-the-result-of-life-on-the-border/index.html": {
+      "bytes": 29072,
+      "sha256": "82607599ca693e71d8e94ac3d55320b7d19ebe50ad128419e5eb11c4d25ccc85"
+    }
+  },
+  "reviewed_at": "2026-11-05",
+  "source_bucket": "hookedaz.cronkitenewsonline.com",
+  "upstream_base": "dcc28780808f232fc51ce61e3008d6d6751ed551"
+}

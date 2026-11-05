@@ -1,3 +1,8 @@
 _site
 .sass-cache/
 .DS_Store
+
+preservation/__pycache__/
+preservation/tests/__pycache__/
+preservation/validation.json
+preservation/build/

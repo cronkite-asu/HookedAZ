@@ -10,6 +10,6 @@ sass:
   style: :compressed
   sass_dir: _sass
   
-exclude: ['README.md']
+exclude: ['README.md', 'preservation']
 
 url: "localhost:4000"
