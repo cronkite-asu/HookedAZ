@@ -5,4 +5,5 @@ _site
 preservation/__pycache__/
 preservation/tests/__pycache__/
 preservation/validation.json
+preservation/validation-cache-fix.json
 preservation/build/

@@ -22,6 +22,8 @@ The preview is at [localhost:8765](http://127.0.0.1:8765/). Stop it with Ctrl-C.
 
 The builder copies original objects byte for byte, transforms the HTML explicitly, and adds only `assets/archive.css` and `assets/archive.js`. The built site has 529 objects, keeps all original keys and data files, and does not replace YouTube, Vimeo, or SoundCloud source attributes. Build output and the generated validation manifest remain untracked. The validator records full build hashes, original hashes, the exact changed/added keys, and failures. Any failure blocks release.
 
+Internal iframe URLs carry the deterministic `archive` revision from `repairs.json`. This makes repaired parent pages request fresh map, chart, gallery and effects documents when returning browsers still cache the older child HTML. Other query parameters and fragments are retained; external media URLs are unchanged. Bump `internal_frame_revision` whenever a later repair changes embedded internal HTML, and rebuild/deploy every affected parent page together with the children.
+
 ## What the overlay repairs
 
 - Adds publication context and retires unavailable submissions without adding a new collection service.

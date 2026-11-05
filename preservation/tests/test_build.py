@@ -9,6 +9,7 @@ import tempfile
 import unittest
 import subprocess
 from html.parser import HTMLParser
+from urllib.parse import parse_qs, urljoin, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 BASELINE = ROOT.parents[1] / 'live-s3'
@@ -65,6 +66,34 @@ class BuildTests(unittest.TestCase):
         self.assertIn('href="#archive-main"',text)
         self.assertEqual(sum(a.get('role')=='main' or t=='main' for t,a in tags),1)
         self.assertEqual(sum(t=='h1' for t,a in tags),1)
+    def test_internal_iframes_have_stable_revision_and_valid_original_paths(self):
+        count=0
+        for path in self.output.rglob('*.html'):
+            key=path.relative_to(self.output).as_posix()
+            base='https://hookedaz.cronkitenewsonline.com/'+key
+            for tag,attrs in Tags(path.read_text()).tags:
+                if tag!='iframe' or not attrs.get('src'):continue
+                resolved=urlsplit(urljoin(base,attrs['src']))
+                if resolved.netloc!='hookedaz.cronkitenewsonline.com':continue
+                self.assertEqual(parse_qs(resolved.query).get('archive'),['20261105-r2'],key)
+                target=resolved.path.lstrip('/')
+                if target.endswith('/'):target+='index.html'
+                self.assertTrue((self.output/target).is_file(),key+' '+target)
+                count+=1
+        self.assertEqual(count,10)
+    def test_frame_revision_preserves_other_queries_fragments_and_external_hosts(self):
+        self.assertIsNotNone(self.builder)
+        transform=getattr(self.builder,'version_internal_frames',None)
+        self.assertIsNotNone(transform,'Missing same-site frame versioning')
+        source='<iframe src="effects/effectsonMind.html?mode=full%20text&amp;view=1#stage"></iframe><iframe src="https://hookedaz.cronkitenewsonline.com/interactives/data.html?archive=old&amp;x=1"></iframe><iframe src="https://hookedaz.cronkitenewsonline.com.evil.test/video?x=1"></iframe><iframe src="https://www.youtube.com/embed/unchanged?si=abc"></iframe>'
+        result=transform(source,'20261105-r2')
+        sources=[a['src'] for t,a in Tags(result).tags if t=='iframe']
+        self.assertEqual(sources,[
+            'effects/effectsonMind.html?mode=full%20text&view=1&archive=20261105-r2#stage',
+            'https://hookedaz.cronkitenewsonline.com/interactives/data.html?x=1&archive=20261105-r2',
+            'https://hookedaz.cronkitenewsonline.com.evil.test/video?x=1',
+            'https://www.youtube.com/embed/unchanged?si=abc'])
+        self.assertEqual(transform(result,'20261105-r2'),result)
     def test_all_inline_scripts_parse_and_controller_is_executable_script(self):
         import re
         for f in BASELINE.rglob('*.html'):

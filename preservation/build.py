@@ -9,7 +9,7 @@ import json
 from pathlib import Path
 import re
 import shutil
-from urllib.parse import urlsplit
+from urllib.parse import unquote, urlsplit, urlunsplit
 
 ROOT=Path(__file__).resolve().parent
 ASSETS={'assets/archive.css':'archive.css','assets/archive.js':'archive.js'}
@@ -58,6 +58,19 @@ def edits(text,changes):
     return text
 def replace_nodes(text,predicate,render):
     doc=Document(text);return edits(text,[(n.start,n.end,render(doc,n)) for n in doc.nodes if predicate(n)])
+
+def version_internal_frames(text,revision):
+    """Select a fresh browser cache key for local frames; external media is immutable."""
+    doc=Document(text);changes=[]
+    for node in doc.nodes:
+        if node.tag!='iframe' or not node.attrs.get('src'):continue
+        source=urlsplit(node.attrs['src'])
+        if source.scheme not in ('','http','https') or source.netloc.lower() not in ('','hookedaz.cronkitenewsonline.com'):continue
+        query=[part for part in source.query.split('&') if part and unquote(part.split('=',1)[0])!='archive']
+        query.append('archive='+revision)
+        attrs=dict(node.attrs);attrs['src']=urlunsplit(source._replace(query='&'.join(query)))
+        changes.append((node.start,node.open_end,tag('iframe',attrs)))
+    return edits(text,changes)
 def top_tag(text,node,**attrs):
     current=dict(node.attrs);current.update(attrs);return tag(node.tag,current)
 
@@ -247,6 +260,7 @@ def transform(text,key,baseline,config):
     if key in ('slideshows/heroin-love/index.html','slideshows/rehab/index.html'):
         slug=key.split('/')[1];text=text.replace('</body',gallery_alternative(baseline,slug)+'</body',1)
     text=shared_markup(text,key)
+    text=version_internal_frames(text,config['internal_frame_revision'])
     if full:
         notice='<aside class="archive-notice" aria-label="Archive information">'+ESC(config['archive_notice'])+'</aside>'
         if key=='index.html':
